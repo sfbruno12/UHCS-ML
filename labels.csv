@@ -1,0 +1,1732 @@
+,id,Anneling Condition,Microconstituent,id_num
+0,Micrograph 1, ET Gyro, pearlite,1
+1,Micrograph 2, AC1 800C 85H Q, spheroidite,2
+2,Micrograph 3, SIS_XL.TIF, quality,3
+3,Micrograph 4, AC1 970C 90M FC, pearlite+spheroidite,4
+4,Micrograph 5, AC1 750C 5M Q, pearlite,5
+5,Micrograph 6, AC1 970C 90M AR, spheroidite,6
+6,Micrograph 7, AC1 970C 90M Q, spheroidite+widmanstatten,7
+7,Micrograph 8, AC1 970C 90M 65C 4H FC, network,8
+8,Micrograph 9, AC1 970C 90M 65C 4H FC, network,9
+9,Micrograph 10, AC1 970C 8H Q, spheroidite,10
+10,Micrograph 11, AC1 800C 85H Q, spheroidite,11
+11,Micrograph 12, Not available, pearlite+spheroidite,12
+12,Micrograph 13, AC1 800C 5M Q, network,13
+13,Micrograph 14, AC1 IS1010H 35X etched, network,14
+14,Micrograph 15, Not available, pearlite+spheroidite,15
+15,Micrograph 16, AC1 970C 24H Q, None,16
+16,Micrograph 17, IN3 Unetched, quality,17
+17,Micrograph 18, AC1 970C 8H Q, network,18
+18,Micrograph 19, AC1 800C 3H Q, crack,19
+19,Micrograph 20, AC1 IS1010H 35X etched, martensite,20
+20,Micrograph 21, AC1 + vickers mark, network,21
+21,Micrograph 22, AC1 970C 24H Q, None,22
+22,Micrograph 23, IN1 Etched Sample, figure,23
+23,Micrograph 24, AC1 970C 90M Q, network,24
+24,Micrograph 25, Not available, hole,25
+25,Micrograph 26, AC1 1000C 5M Q, spheroidite+widmanstatten,26
+26,Micrograph 27, Not available, None,27
+27,Micrograph 28, Not available, network,28
+28,Micrograph 29, AC1 970C 90M FC, spheroidite,29
+29,Micrograph 30, AC1 900C 24H Q, spheroidite,30
+30,Micrograph 31, Not available, network,31
+31,Micrograph 32, AC1 970C 24H Q, spheroidite,32
+32,Micrograph 33, Not available, network,33
+33,Micrograph 34, IN1 Etched Sample, None,34
+34,Micrograph 35, AC1 970 5M FC, network,35
+35,Micrograph 36, ET Gyro, network,36
+36,Micrograph 37, AC1 970C 5M Q, spheroidite+widmanstatten,37
+37,Micrograph 38, SIS_XL.TIF, indent,38
+38,Micrograph 39, AC1 970 5M FC, spheroidite,39
+39,Micrograph 40, AC1 970C 90M 65C 4H FC, sample,40
+40,Micrograph 41, AC1 IS1010H 35X etched, martensite,41
+41,Micrograph 42, AC1 800C 3H Q, network,42
+42,Micrograph 43, IN1 Etched Sample, figure,43
+43,Micrograph 44, SIS_XL.TIF, martensite,44
+44,Micrograph 45, ET Gyro, figure,45
+45,Micrograph 46, Not available, network,46
+46,Micrograph 47, Not available, network,47
+47,Micrograph 48, AC1 800C 900C 970C 90M Q, spheroidite,48
+48,Micrograph 49, AC1 970C 24H Q, spheroidite,49
+49,Micrograph 50, SIS_XL.TIF, quality,50
+50,Micrograph 51, SIS_XL.TIF, network,51
+51,Micrograph 52, Not available, pearlite,52
+52,Micrograph 53, AC1 970C 90M Q, spheroidite,53
+53,Micrograph 54, AC1 970C 24H Q, None,54
+54,Micrograph 55, SIS_XL.TIF, sample,55
+55,Micrograph 56, Not available, None,56
+56,Micrograph 57, Not available, crack,57
+57,Micrograph 58, AC1 900C 90M Q, spheroidite+widmanstatten,58
+58,Micrograph 59, AC1 700C 5M Q, pearlite,59
+59,Micrograph 60, AC1 970C 90M FC, network,60
+60,Micrograph 61, AC1 + vickers mark, indent,61
+61,Micrograph 62, Not available, pearlite+spheroidite,62
+62,Micrograph 63, SIS_XL.TIF, None,63
+63,Micrograph 64, Not available, None,64
+64,Micrograph 65, AC1 800C 90M Q, network,65
+65,Micrograph 66, Not available, quality,66
+66,Micrograph 67, AC 800C 8H Q, spheroidite,67
+67,Micrograph 68, AC1 800C 3H Q, spheroidite,68
+68,Micrograph 69, AC1 970C 90M FC, spheroidite,69
+69,Micrograph 70, AC1 800C 3H Q, network,70
+70,Micrograph 71, IN1 Etched Sample, pearlite+spheroidite,71
+71,Micrograph 72, AC1 970C 3H Q, network,72
+72,Micrograph 73, SIS_XL.TIF, None,73
+73,Micrograph 74, IN1 Etched Sample, pearlite,74
+74,Micrograph 75, AC1 970C 3H Q, spheroidite,75
+75,Micrograph 76, AC1 800C 24H Q, spheroidite,76
+76,Micrograph 77, AC1 970C 90M 65C 4H FC, sample,77
+77,Micrograph 78, AC1 900C 5M Q, None,78
+78,Micrograph 79, IN3 Unetched, sample,79
+79,Micrograph 80, SIS_XL.TIF, network,80
+80,Micrograph 81, AC1 970C 90M Q, None,81
+81,Micrograph 82, AC1 800C 24H Q, spheroidite,82
+82,Micrograph 83, AC1 1100C 1H 650C 1H, None,83
+83,Micrograph 84, AC1 970C 5M Q, crack,84
+84,Micrograph 85, AC1 970C 24H Q, None,85
+85,Micrograph 86, AC1 970C 3H Q, network,86
+86,Micrograph 87, SIS_XL.TIF, hole,87
+87,Micrograph 88, AC1 970C 24H Q, network,88
+88,Micrograph 89, SIS_XL.TIF, network,89
+89,Micrograph 90, AC1 970C 24H Q, spheroidite,90
+90,Micrograph 91, SIS_XL.TIF, pearlite,91
+91,Micrograph 92, SIS_XL.TIF, None,92
+92,Micrograph 93, ET Gyro, quality,93
+93,Micrograph 94, AC1 970C 90M Q, sample,94
+94,Micrograph 95, AC1 900C 90M Q, network,95
+95,Micrograph 96, AC1 + vickers mark, sample,96
+96,Micrograph 97, AC1 800C 24H Q, network,97
+97,Micrograph 98, AC1 900C 24H Q, spheroidite,98
+98,Micrograph 99, AC1 IS1010H 35X etched, martensite,99
+99,Micrograph 100, Not available, quality,100
+100,Micrograph 101, Gaunt - Utah 1.5 yr explant M, None,101
+101,Micrograph 102, ET Gyro, quality,102
+102,Micrograph 103, SIS_XL.TIF, None,103
+103,Micrograph 104, AC1 970C 90M AR, spheroidite,104
+104,Micrograph 105, IN3 Unetched, crack,105
+105,Micrograph 106, AC1 970C 3H Q, spheroidite,106
+106,Micrograph 107, AC1 970C 90M Q, spheroidite,107
+107,Micrograph 108, AC1 800C 3H Q, crack,108
+108,Micrograph 109, Not available, pearlite+spheroidite,109
+109,Micrograph 110, ET Gyro, quality,110
+110,Micrograph 111, AC1 970C 90M FC, pearlite+spheroidite,111
+111,Micrograph 112, Not available, network,112
+112,Micrograph 113, AC1 800C 3H Q, network,113
+113,Micrograph 114, SIS_XL.TIF, martensite,114
+114,Micrograph 115, AC1 970C 90M FC, None,115
+115,Micrograph 116, SIS_XL.TIF, None,116
+116,Micrograph 117, Not available, hole,117
+117,Micrograph 118, SIS_XL.TIF, None,118
+118,Micrograph 119, AC1 970C 90M FC, pearlite+spheroidite,119
+119,Micrograph 120, Not available, None,120
+120,Micrograph 121, ET Gyro, pearlite,121
+121,Micrograph 122, AC1 800C 85H Q, spheroidite,122
+122,Micrograph 123, SIS_XL.TIF, indent,123
+123,Micrograph 124, AC1 800C 3H Q, spheroidite,124
+124,Micrograph 125, AC1 970C 24H FC, None,125
+125,Micrograph 126, Not available, pearlite,126
+126,Micrograph 127, Not available, network,127
+127,Micrograph 128, Not available, network,128
+128,Micrograph 129, SIS_XL.TIF, crack,129
+129,Micrograph 130, SIS_XL.TIF, pearlite,130
+130,Micrograph 131, Not available, pearlite+spheroidite,131
+131,Micrograph 132, IN1 Etched Sample, None,132
+132,Micrograph 133, AC1 1000C 5M Q, network,133
+133,Micrograph 134, SIS_XL.TIF, hole,134
+134,Micrograph 135, AC1 970C 3H Q, spheroidite,135
+135,Micrograph 136, AC1 700C 5M Q, None,136
+136,Micrograph 137, Not available, pearlite+spheroidite,137
+137,Micrograph 138, AC1 970C 48H Q, spheroidite,138
+138,Micrograph 139, SIS_XL.TIF, hole,139
+139,Micrograph 140, SIS_XL.TIF, indent,140
+140,Micrograph 141, AC1 800C 24H Q, quality,141
+141,Micrograph 142, Not available, None,142
+142,Micrograph 143, Not available, None,143
+143,Micrograph 144, Not available, None,144
+144,Micrograph 145, SIS_XL.TIF, indent,145
+145,Micrograph 146, Not available, None,146
+146,Micrograph 147, SIS_XL.TIF, indent,147
+147,Micrograph 148, AC1 900C 90M Q, spheroidite,148
+148,Micrograph 149, IN1 Etched Sample, hole,149
+149,Micrograph 150, AC1 970C 90M FC, network,150
+150,Micrograph 151, AC1 970C 24H FC, None,151
+151,Micrograph 152, AC1 970C 3H Q, spheroidite,152
+152,Micrograph 153, IN3 Unetched, sample,153
+153,Micrograph 154, AC1 970C 24H Q, spheroidite,154
+154,Micrograph 155, Not available, None,155
+155,Micrograph 156, AC1 970C 24H Q, spheroidite,156
+156,Micrograph 157, ET Gyro, network,157
+157,Micrograph 158, AC1 1100C 1H 650C 1H, None,158
+158,Micrograph 159, Not available, None,159
+159,Micrograph 160, AC1 970C 8H Q, spheroidite,160
+160,Micrograph 161, AC1 900C 3H Q, spheroidite,161
+161,Micrograph 162, AC1 970C 48H Q, spheroidite,162
+162,Micrograph 163, Gaunt - Utah 1.5 yr explant M, None,163
+163,Micrograph 164, AC1 + vickers mark, None,164
+164,Micrograph 165, Not available, None,165
+165,Micrograph 166, Not available, pearlite+spheroidite,166
+166,Micrograph 167, Not available, None,167
+167,Micrograph 168, AC1 IS1010H 35X etched, martensite,168
+168,Micrograph 169, AC1 800C 85H Q, spheroidite,169
+169,Micrograph 170, AC1 800C 24H Q, spheroidite,170
+170,Micrograph 171, AC1 970C 24H Q, spheroidite,171
+171,Micrograph 172, AC1 900C 24H Q, spheroidite,172
+172,Micrograph 173, AC1 970C 3H Q, network,173
+173,Micrograph 174, Not available, None,174
+174,Micrograph 175, Not available, None,175
+175,Micrograph 176, SIS_XL.TIF, pearlite,176
+176,Micrograph 177, AC1 970C 24H Q, spheroidite,177
+177,Micrograph 178, AC1 970C 24H Q, spheroidite,178
+178,Micrograph 179, IN3 Unetched, sample,179
+179,Micrograph 180, SIS_XL.TIF, pearlite,180
+180,Micrograph 181, AC1 970C 90M FC, figure,181
+181,Micrograph 182, IN1 Etched Sample, figure,182
+182,Micrograph 183, SIS_XL.TIF, indent,183
+183,Micrograph 184, AC1 800C 8H Q, spheroidite,184
+184,Micrograph 185, AC 800C 8H Q, spheroidite,185
+185,Micrograph 186, Not available, pearlite+spheroidite,186
+186,Micrograph 187, Not available, None,187
+187,Micrograph 188, IN1 Etched Sample, network,188
+188,Micrograph 189, SIS_XL.TIF, network,189
+189,Micrograph 190, Not available, None,190
+190,Micrograph 191, AC1 1000C 5M Q, spheroidite+widmanstatten,191
+191,Micrograph 192, AC1 800C 24H Q, spheroidite,192
+192,Micrograph 193, AC1 1100C 1H 650C 1H, pearlite+spheroidite,193
+193,Micrograph 194, ET Gyro, pearlite,194
+194,Micrograph 195, AC1 970C 90M AR, spheroidite,195
+195,Micrograph 196, AC1 970C 90M Q, spheroidite,196
+196,Micrograph 197, SIS_XL.TIF, indent,197
+197,Micrograph 198, AC1 700C 5M Q, pearlite,198
+198,Micrograph 199, Not available, None,199
+199,Micrograph 200, AC1 970C 24H Q, spheroidite+widmanstatten,200
+200,Micrograph 201, IN1 Etched Sample, pearlite+spheroidite,201
+201,Micrograph 202, AC1 970C 24H Q, spheroidite,202
+202,Micrograph 203, AC1 + vickers mark, indent,203
+203,Micrograph 204, Not available, network,204
+204,Micrograph 205, AC1 900C 90M Q, spheroidite,205
+205,Micrograph 206, Not available, None,206
+206,Micrograph 207, Not available, hole,207
+207,Micrograph 208, Not available, hole,208
+208,Micrograph 209, AC1 970C 90M AR, spheroidite,209
+209,Micrograph 210, AC1 900C 3H Q, spheroidite,210
+210,Micrograph 211, IN1 Etched Sample, pearlite+spheroidite,211
+211,Micrograph 212, ET Gyro, pearlite,212
+212,Micrograph 213, Not available, None,213
+213,Micrograph 214, AC1 970 5M FC, spheroidite+widmanstatten,214
+214,Micrograph 215, Not available, None,215
+215,Micrograph 216, AC1 900C 5M Q, None,216
+216,Micrograph 217, Not available, quality,217
+217,Micrograph 218, AC1 750C 5M Q, pearlite,218
+218,Micrograph 219, SIS_XL.TIF, sample,219
+219,Micrograph 220, AC1 800C 8H Q, spheroidite,220
+220,Micrograph 221, AC1 970 5M FC, spheroidite+widmanstatten,221
+221,Micrograph 222, AC1 970 5M FC, spheroidite+widmanstatten,222
+222,Micrograph 223, AC1 970C 3H Q, spheroidite,223
+223,Micrograph 224, AC1 970C 90M FC, pearlite+spheroidite,224
+224,Micrograph 225, SIS_XL.TIF, indent,225
+225,Micrograph 226, SIS_XL.TIF, hole,226
+226,Micrograph 227, IN3 Unetched, crack,227
+227,Micrograph 228, SIS_XL.TIF, None,228
+228,Micrograph 229, AC1 970C 3H Q, network,229
+229,Micrograph 230, Not available, crack,230
+230,Micrograph 231, AC1 900C 3H Q, spheroidite,231
+231,Micrograph 232, AC1 970C 90M 65C 4H FC, None,232
+232,Micrograph 233, AC1 800C 3H Q, spheroidite+widmanstatten,233
+233,Micrograph 234, AC1 900C 24H Q, spheroidite,234
+234,Micrograph 235, AC1 970C 90M AR, spheroidite,235
+235,Micrograph 236, SIS_XL.TIF, None,236
+236,Micrograph 237, AC1 800C 24H Q, spheroidite,237
+237,Micrograph 238, Not available, quality,238
+238,Micrograph 239, AC1 900C 5M Q, None,239
+239,Micrograph 240, AC1 970C 5M Q, crack,240
+240,Micrograph 241, Not available, None,241
+241,Micrograph 242, AC1 1000C 5M Q, network,242
+242,Micrograph 243, AC1 970C 3H Q, spheroidite,243
+243,Micrograph 244, SIS_XL.TIF, indent,244
+244,Micrograph 245, Not available, pearlite+spheroidite,245
+245,Micrograph 246, AC1 970C 90M FC, sample,246
+246,Micrograph 247, AC1 750C 5M Q, pearlite,247
+247,Micrograph 248, AC1 970C 8H Q, spheroidite,248
+248,Micrograph 249, Gaunt - Utah 1.5 yr explant M, quality,249
+249,Micrograph 250, AC1 900C 5M Q, None,250
+250,Micrograph 251, AC1 + vickers mark, network,251
+251,Micrograph 252, SIS_XL.TIF, pearlite,252
+252,Micrograph 253, AC1 + vickers mark, network,253
+253,Micrograph 254, SIS_XL.TIF, None,254
+254,Micrograph 255, AC1 970C 8H Q, network,255
+255,Micrograph 256, Not available, None,256
+256,Micrograph 257, AC1 970C 24H Q, spheroidite,257
+257,Micrograph 258, Not available, quality,258
+258,Micrograph 259, IN3 Unetched, crack,259
+259,Micrograph 260, Not available, quality,260
+260,Micrograph 261, AC 800C 8H Q, spheroidite,261
+261,Micrograph 262, SIS_XL.TIF, None,262
+262,Micrograph 263, Not available, quality,263
+263,Micrograph 264, Not available, quality,264
+264,Micrograph 265, AC1 800C 24H Q, spheroidite,265
+265,Micrograph 266, Not available, quality,266
+266,Micrograph 267, IN3 Unetched, sample,267
+267,Micrograph 268, IN3 Unetched, crack,268
+268,Micrograph 269, SIS_XL.TIF, network,269
+269,Micrograph 270, SIS_XL.TIF, sample,270
+270,Micrograph 271, AC1 900C 90M Q, spheroidite,271
+271,Micrograph 272, AC1 970C 5M Q, spheroidite,272
+272,Micrograph 273, SIS_XL.TIF, pearlite,273
+273,Micrograph 274, IN3 Unetched, hole,274
+274,Micrograph 275, AC1 800C 24H Q, quality,275
+275,Micrograph 276, IN3 Unetched, quality,276
+276,Micrograph 277, AC1 970C 90M Q, None,277
+277,Micrograph 278, Not available, quality,278
+278,Micrograph 279, Not available, quality,279
+279,Micrograph 280, SIS_XL.TIF, network,280
+280,Micrograph 281, AC1 970C 5M Q, crack,281
+281,Micrograph 282, Not available, None,282
+282,Micrograph 283, AC 800C 8H Q, spheroidite,283
+283,Micrograph 284, Not available, pearlite,284
+284,Micrograph 285, AC1 970C 3H Q, network,285
+285,Micrograph 286, AC1 970C 5M Q, spheroidite,286
+286,Micrograph 287, SIS_XL.TIF, None,287
+287,Micrograph 288, Not available, pearlite+spheroidite,288
+288,Micrograph 289, AC1 970C 8H Q, None,289
+289,Micrograph 290, AC1 970C 24H FC, sample,290
+290,Micrograph 291, Not available, quality,291
+291,Micrograph 292, SIS_XL.TIF, None,292
+292,Micrograph 293, AC1 970C 90M Q, sample,293
+293,Micrograph 294, Not available, None,294
+294,Micrograph 295, AC1 970C 90M Q, spheroidite+widmanstatten,295
+295,Micrograph 296, AC1 800C 8H Q, spheroidite,296
+296,Micrograph 297, SIS_XL.TIF, network,297
+297,Micrograph 298, IN3 Unetched, quality,298
+298,Micrograph 299, AC1 800C 90M Q, None,299
+299,Micrograph 300, ET Gyro, quality,300
+300,Micrograph 301, AC1 750C 5M Q, network,301
+301,Micrograph 302, IN3 Unetched, hole,302
+302,Micrograph 303, AC1 970C 90M FC, None,303
+303,Micrograph 304, Not available, quality,304
+304,Micrograph 305, SIS_XL.TIF, network,305
+305,Micrograph 306, AC1 700C 5M Q, network,306
+306,Micrograph 307, Not available, quality,307
+307,Micrograph 308, AC1 900C 24H Q, spheroidite,308
+308,Micrograph 309, SIS_XL.TIF, pearlite,309
+309,Micrograph 310, SIS_XL.TIF, hole,310
+310,Micrograph 311, AC1 800C 90M Q, spheroidite,311
+311,Micrograph 312, AC1 800C 8H Q, spheroidite,312
+312,Micrograph 313, AC1 970 5M FC, spheroidite+widmanstatten,313
+313,Micrograph 314, AC1 970 5M FC, spheroidite+widmanstatten,314
+314,Micrograph 315, AC1 970C 24H FC, sample,315
+315,Micrograph 316, AC1 IS1010H 35X etched, network,316
+316,Micrograph 317, AC1 970C 24H FC, sample,317
+317,Micrograph 318, AC1 970C 8H Q, spheroidite,318
+318,Micrograph 319, AC1 970C 3H Q, spheroidite,319
+319,Micrograph 320, SIS_XL.TIF, hole,320
+320,Micrograph 321, AC1 800C 3H Q, spheroidite,321
+321,Micrograph 322, SIS_XL.TIF, pearlite,322
+322,Micrograph 323, SIS_XL.TIF, crack,323
+323,Micrograph 324, IN3 Unetched, hole,324
+324,Micrograph 325, AC1 700C 5M Q, pearlite,325
+325,Micrograph 326, AC1 970C 8H Q, spheroidite,326
+326,Micrograph 327, SIS_XL.TIF, quality,327
+327,Micrograph 328, IN3 Unetched, crack,328
+328,Micrograph 329, SIS_XL.TIF, pearlite,329
+329,Micrograph 330, AC1 800C 8H Q, spheroidite,330
+330,Micrograph 331, AC1 1000C 5M Q, sample,331
+331,Micrograph 332, Not available, crack,332
+332,Micrograph 333, AC1 970C 90M Q, spheroidite+widmanstatten,333
+333,Micrograph 334, Not available, None,334
+334,Micrograph 335, Not available, None,335
+335,Micrograph 336, Not available, None,336
+336,Micrograph 337, AC1 970C 3H Q, spheroidite,337
+337,Micrograph 338, SIS_XL.TIF, hole,338
+338,Micrograph 339, Not available, None,339
+339,Micrograph 340, AC1 970C 24H FC, sample,340
+340,Micrograph 341, IN1 Etched Sample, sample,341
+341,Micrograph 342, Not available, pearlite+spheroidite,342
+342,Micrograph 343, AC1 970C 90M Q, network,343
+343,Micrograph 344, SIS_XL.TIF, hole,344
+344,Micrograph 345, AC1 IS1010H 35X etched, martensite,345
+345,Micrograph 346, Not available, pearlite+widmanstatten,346
+346,Micrograph 347, ET Gyro, network,347
+347,Micrograph 348, AC1 970C 90M Q, sample,348
+348,Micrograph 349, SIS_XL.TIF, pearlite,349
+349,Micrograph 350, SIS_XL.TIF, crack,350
+350,Micrograph 351, AC1 800C 8H Q, spheroidite,351
+351,Micrograph 352, AC1 970C 90M Q, spheroidite,352
+352,Micrograph 353, ET Gyro, pearlite,353
+353,Micrograph 354, AC1 970C 90M Q, spheroidite+widmanstatten,354
+354,Micrograph 355, AC1 970C 5M Q, None,355
+355,Micrograph 356, SIS_XL.TIF, crack,356
+356,Micrograph 357, AC1 970C 24H Q, spheroidite,357
+357,Micrograph 358, IN3 Unetched, quality,358
+358,Micrograph 359, AC1 970 5M FC, spheroidite+widmanstatten,359
+359,Micrograph 360, AC1 800C 3H Q, spheroidite,360
+360,Micrograph 361, Not available, crack,361
+361,Micrograph 362, AC1 970C 24H FC, sample,362
+362,Micrograph 363, AC1 970C 24H Q, spheroidite,363
+363,Micrograph 364, AC 800C 8H Q, spheroidite,364
+364,Micrograph 365, AC1 800C 90M Q, None,365
+365,Micrograph 366, SIS_XL.TIF, martensite,366
+366,Micrograph 367, AC1 800C 85H Q, spheroidite,367
+367,Micrograph 368, AC1 970C 3H Q, network,368
+368,Micrograph 369, AC1 900C 90M Q, spheroidite,369
+369,Micrograph 370, IN1 Etched Sample, None,370
+370,Micrograph 371, AC1 800C 90M Q, network,371
+371,Micrograph 372, IN3 Unetched, crack,372
+372,Micrograph 373, AC1 800C 90M Q, spheroidite,373
+373,Micrograph 374, SIS_XL.TIF, None,374
+374,Micrograph 375, AC1 970 5M FC, spheroidite,375
+375,Micrograph 376, AC 800C 8H Q, spheroidite,376
+376,Micrograph 377, AC1 970 5M FC, sample,377
+377,Micrograph 378, Not available, None,378
+378,Micrograph 379, Not available, quality,379
+379,Micrograph 380, AC1 970C 90M FC, pearlite+spheroidite,380
+380,Micrograph 381, AC1 IS1010H 35X etched, martensite,381
+381,Micrograph 382, AC1 800C 24H Q, spheroidite,382
+382,Micrograph 383, AC1 970C 90M AR, network,383
+383,Micrograph 384, AC1 1000C 5M Q, network,384
+384,Micrograph 385, AC1 970C 5M Q, None,385
+385,Micrograph 386, AC1 970C 8H Q, spheroidite,386
+386,Micrograph 387, SIS_XL.TIF, pearlite,387
+387,Micrograph 388, AC1 970C 90M Q, spheroidite,388
+388,Micrograph 389, Not available, None,389
+389,Micrograph 390, Not available, None,390
+390,Micrograph 391, AC1 800C 3H Q, spheroidite,391
+391,Micrograph 392, Not available, pearlite,392
+392,Micrograph 393, IN3 Unetched, quality,393
+393,Micrograph 394, SIS_XL.TIF, None,394
+394,Micrograph 395, Not available, quality,395
+395,Micrograph 396, AC1 970C 24H Q, network,396
+396,Micrograph 397, ET Gyro, pearlite,397
+397,Micrograph 398, AC1 970C 24H Q, spheroidite,398
+398,Micrograph 399, IN3 Unetched, crack,399
+399,Micrograph 400, Not available, quality,400
+400,Micrograph 401, IN1 Etched Sample, pearlite,401
+401,Micrograph 402, AC1 970C 24H Q, spheroidite,402
+402,Micrograph 403, AC1 700C 5M Q, network,403
+403,Micrograph 404, Not available, pearlite+spheroidite,404
+404,Micrograph 405, SIS_XL.TIF, indent,405
+405,Micrograph 406, AC1 970C 90M Q, spheroidite,406
+406,Micrograph 407, AC1 900C 3H Q, spheroidite,407
+407,Micrograph 408, AC1 970C 24H Q, spheroidite,408
+408,Micrograph 409, SIS_XL.TIF, crack,409
+409,Micrograph 410, SIS_XL.TIF, indent,410
+410,Micrograph 411, AC1 970C 90M Q, spheroidite,411
+411,Micrograph 412, SIS_XL.TIF, crack,412
+412,Micrograph 413, SIS_XL.TIF, indent,413
+413,Micrograph 414, Not available, quality,414
+414,Micrograph 415, Not available, None,415
+415,Micrograph 416, Not available, None,416
+416,Micrograph 417, Not available, crack,417
+417,Micrograph 418, AC1 970C 24H Q, spheroidite,418
+418,Micrograph 419, AC1 800C 900C 970C 90M Q, spheroidite,419
+419,Micrograph 420, IN3 Unetched, crack,420
+420,Micrograph 421, SIS_XL.TIF, network,421
+421,Micrograph 422, AC1 800C 900C 970C 90M Q, spheroidite,422
+422,Micrograph 423, IN3 Unetched, quality,423
+423,Micrograph 424, ET Gyro, None,424
+424,Micrograph 425, IN3 Unetched, quality,425
+425,Micrograph 426, Not available, None,426
+426,Micrograph 427, AC1 970C 24H Q, spheroidite,427
+427,Micrograph 428, SIS_XL.TIF, None,428
+428,Micrograph 429, Not available, crack,429
+429,Micrograph 430, AC1 800C 85H Q, spheroidite,430
+430,Micrograph 431, Not available, pearlite+spheroidite,431
+431,Micrograph 432, SIS_XL.TIF, hole,432
+432,Micrograph 433, AC1 970C 90M AR, spheroidite+widmanstatten,433
+433,Micrograph 434, SIS_XL.TIF, None,434
+434,Micrograph 435, AC1 970C 3H Q, spheroidite,435
+435,Micrograph 436, AC1 970C 3H Q, spheroidite,436
+436,Micrograph 437, AC 800C 8H Q, spheroidite,437
+437,Micrograph 438, IN3 Unetched, quality,438
+438,Micrograph 439, IN3 Unetched, crack,439
+439,Micrograph 440, AC1 970C 3H Q, spheroidite,440
+440,Micrograph 441, SIS_XL.TIF, network,441
+441,Micrograph 442, AC1 900C 90M Q, spheroidite,442
+442,Micrograph 443, AC1 970C 90M Q, spheroidite,443
+443,Micrograph 444, Not available, None,444
+444,Micrograph 445, AC1 970C 24H FC, sample,445
+445,Micrograph 446, SIS_XL.TIF, None,446
+446,Micrograph 447, AC1 970C 90M FC, network,447
+447,Micrograph 448, Not available, None,448
+448,Micrograph 449, AC1 970C 90M Q, spheroidite,449
+449,Micrograph 450, AC1 970C 90M FC, None,450
+450,Micrograph 451, AC1 970C 24H Q, spheroidite,451
+451,Micrograph 452, SIS_XL.TIF, spheroidite,452
+452,Micrograph 453, Not available, pearlite+spheroidite,453
+453,Micrograph 454, SIS_XL.TIF, network,454
+454,Micrograph 455, AC1 900C 5M Q, None,455
+455,Micrograph 456, IN3 Unetched, crack,456
+456,Micrograph 457, AC1 970C 24H Q, spheroidite,457
+457,Micrograph 458, AC1 970C 90M Q, spheroidite,458
+458,Micrograph 459, AC1 IS1010H 35X etched, martensite,459
+459,Micrograph 460, Not available, None,460
+460,Micrograph 461, Not available, None,461
+461,Micrograph 462, SIS_XL.TIF, indent,462
+462,Micrograph 463, AC1 900C 90M Q, spheroidite,463
+463,Micrograph 464, AC1 900C 90M Q, spheroidite,464
+464,Micrograph 465, AC1 800C 85H Q, spheroidite,465
+465,Micrograph 466, ET Gyro, pearlite+spheroidite,466
+466,Micrograph 467, SIS_XL.TIF, None,467
+467,Micrograph 468, AC1 970C 3H Q, spheroidite,468
+468,Micrograph 469, Not available, quality,469
+469,Micrograph 470, AC1 900C 90M Q, spheroidite,470
+470,Micrograph 471, AC1 970C 90M Q, spheroidite+widmanstatten,471
+471,Micrograph 472, AC1 970C 24H Q, spheroidite,472
+472,Micrograph 473, Not available, quality,473
+473,Micrograph 474, AC1 970C 8H Q, spheroidite,474
+474,Micrograph 475, AC1 970 5M FC, spheroidite+widmanstatten,475
+475,Micrograph 476, SIS_XL.TIF, indent,476
+476,Micrograph 477, AC1 1000C 5M Q, spheroidite+widmanstatten,477
+477,Micrograph 478, SIS_XL.TIF, hole,478
+478,Micrograph 479, SIS_XL.TIF, pearlite,479
+479,Micrograph 480, SIS_XL.TIF, network,480
+480,Micrograph 481, AC1 1100C 1H 650C 1H, pearlite+spheroidite,481
+481,Micrograph 482, AC1 970C 24H FC, sample,482
+482,Micrograph 483, AC1 1100C 1H 650C 1H, pearlite+spheroidite,483
+483,Micrograph 484, SIS_XL.TIF, network,484
+484,Micrograph 485, IN1 Etched Sample, figure,485
+485,Micrograph 486, AC1 800C 90M Q, spheroidite,486
+486,Micrograph 487, IN1 Etched Sample, pearlite,487
+487,Micrograph 488, AC1 800C 85H Q, spheroidite+widmanstatten,488
+488,Micrograph 489, AC1 970C 90M Q, spheroidite,489
+489,Micrograph 490, AC1 + vickers mark, pearlite+widmanstatten,490
+490,Micrograph 491, Gaunt - Utah 1.5 yr explant M, quality,491
+491,Micrograph 492, SIS_XL.TIF, martensite,492
+492,Micrograph 493, AC1 800C 85H Q, spheroidite,493
+493,Micrograph 494, AC1 970C 24H FC, sample,494
+494,Micrograph 495, AC1 970C 3H Q, spheroidite,495
+495,Micrograph 496, Not available, pearlite+widmanstatten,496
+496,Micrograph 497, SIS_XL.TIF, None,497
+497,Micrograph 498, Not available, None,498
+498,Micrograph 499, AC1 1100C 1H 650C 1H, pearlite+spheroidite,499
+499,Micrograph 500, Not available, network,500
+500,Micrograph 501, Not available, pearlite,501
+501,Micrograph 502, SIS_XL.TIF, martensite,502
+502,Micrograph 503, AC1 970C 90M FC, sample,503
+503,Micrograph 504, Not available, None,504
+504,Micrograph 505, SIS_XL.TIF, indent,505
+505,Micrograph 506, SIS_XL.TIF, None,506
+506,Micrograph 507, Not available, spheroidite+widmanstatten,507
+507,Micrograph 508, Not available, None,508
+508,Micrograph 509, Not available, None,509
+509,Micrograph 510, Not available, None,510
+510,Micrograph 511, Not available, None,511
+511,Micrograph 512, AC1 970C 90M AR, spheroidite,512
+512,Micrograph 513, SIS_XL.TIF, crack,513
+513,Micrograph 514, AC1 + vickers mark, network,514
+514,Micrograph 515, AC1 1100C 1H 650C 1H, pearlite+spheroidite,515
+515,Micrograph 516, IN1 Etched Sample, quality,516
+516,Micrograph 517, AC1 970C 90M Q, spheroidite,517
+517,Micrograph 518, AC1 970C 3H Q, network,518
+518,Micrograph 519, SIS_XL.TIF, indent,519
+519,Micrograph 520, AC1 970C 90M AR, network,520
+520,Micrograph 521, Gaunt - Utah 1.5 yr explant M, quality,521
+521,Micrograph 522, AC1 1100C 1H 650C 1H, pearlite+spheroidite,522
+522,Micrograph 523, SIS_XL.TIF, pearlite+widmanstatten,523
+523,Micrograph 524, AC1 900C 90M Q, spheroidite,524
+524,Micrograph 525, SIS_XL.TIF, indent,525
+525,Micrograph 526, Not available, None,526
+526,Micrograph 527, SIS_XL.TIF, hole,527
+527,Micrograph 528, SIS_XL.TIF, network,528
+528,Micrograph 529, Not available, None,529
+529,Micrograph 530, AC1 970C 24H Q, spheroidite,530
+530,Micrograph 531, SIS_XL.TIF, hole,531
+531,Micrograph 532, IN1 Etched Sample, pearlite+spheroidite,532
+532,Micrograph 533, SIS_XL.TIF, None,533
+533,Micrograph 534, AC1 970C 24H Q, spheroidite,534
+534,Micrograph 535, SIS_XL.TIF, pearlite,535
+535,Micrograph 536, AC1 970C 90M Q, spheroidite,536
+536,Micrograph 537, SIS_XL.TIF, network,537
+537,Micrograph 538, Not available, None,538
+538,Micrograph 539, Not available, None,539
+539,Micrograph 540, Not available, hole,540
+540,Micrograph 541, Not available, pearlite+spheroidite,541
+541,Micrograph 542, AC1 970C 90M Q, sample,542
+542,Micrograph 543, AC1 900C 3H Q, spheroidite,543
+543,Micrograph 544, AC1 1100C 1H 650C 1H, pearlite+spheroidite,544
+544,Micrograph 545, AC1 900C 90M Q, network,545
+545,Micrograph 546, Not available, network,546
+546,Micrograph 547, Not available, None,547
+547,Micrograph 548, AC1 970C 90M Q, spheroidite,548
+548,Micrograph 549, SIS_XL.TIF, indent,549
+549,Micrograph 550, SIS_XL.TIF, sample,550
+550,Micrograph 551, AC1 800C 24H Q, spheroidite+widmanstatten,551
+551,Micrograph 552, Not available, None,552
+552,Micrograph 553, AC1 900C 5M Q, pearlite+widmanstatten,553
+553,Micrograph 554, SIS_XL.TIF, pearlite,554
+554,Micrograph 555, AC1 970C 24H Q, spheroidite,555
+555,Micrograph 556, Not available, crack,556
+556,Micrograph 557, Not available, hole,557
+557,Micrograph 558, AC1 800C 85H Q, spheroidite,558
+558,Micrograph 559, AC1 970C 90M FC, sample,559
+559,Micrograph 560, SIS_XL.TIF, None,560
+560,Micrograph 561, AC1 970C 3H Q, spheroidite,561
+561,Micrograph 562, AC1 970C 24H FC, sample,562
+562,Micrograph 563, IN3 Unetched, quality,563
+563,Micrograph 564, ET Gyro, quality,564
+564,Micrograph 565, AC1 800C 3H Q, spheroidite,565
+565,Micrograph 566, AC1 970C 3H Q, spheroidite,566
+566,Micrograph 567, Not available, pearlite+spheroidite,567
+567,Micrograph 568, AC1 800C 85H Q, spheroidite,568
+568,Micrograph 569, AC1 800C 8H Q, spheroidite,569
+569,Micrograph 570, IN3 Unetched, hole,570
+570,Micrograph 571, Not available, None,571
+571,Micrograph 572, Not available, pearlite+spheroidite,572
+572,Micrograph 573, AC1 800C 24H Q, spheroidite,573
+573,Micrograph 574, Not available, quality,574
+574,Micrograph 575, AC1 970C 90M Q, None,575
+575,Micrograph 576, AC1 970C 90M 65C 4H FC, pearlite+spheroidite,576
+576,Micrograph 577, SIS_XL.TIF, indent,577
+577,Micrograph 578, AC1 970C 90M FC, sample,578
+578,Micrograph 579, AC1 970C 3H Q, spheroidite+widmanstatten,579
+579,Micrograph 580, SIS_XL.TIF, hole,580
+580,Micrograph 581, Not available, quality,581
+581,Micrograph 582, SIS_XL.TIF, indent,582
+582,Micrograph 583, Not available, hole,583
+583,Micrograph 584, AC1 800C 90M Q, network,584
+584,Micrograph 585, Not available, crack,585
+585,Micrograph 586, AC1 970 5M FC, spheroidite+widmanstatten,586
+586,Micrograph 587, IN3 Unetched, crack,587
+587,Micrograph 588, IN3 Unetched, crack,588
+588,Micrograph 589, AC1 800C 8H Q, spheroidite,589
+589,Micrograph 590, ET Gyro, quality,590
+590,Micrograph 591, Gaunt - Utah 1.5 yr explant M, quality,591
+591,Micrograph 592, AC1 970 5M FC, network,592
+592,Micrograph 593, Not available, None,593
+593,Micrograph 594, AC1 800C 85H Q, spheroidite,594
+594,Micrograph 595, SIS_XL.TIF, None,595
+595,Micrograph 596, AC1 970C 5M Q, spheroidite,596
+596,Micrograph 597, AC1 970C 3H Q, network,597
+597,Micrograph 598, AC1 900C 90M Q, spheroidite,598
+598,Micrograph 599, AC1 970C 90M Q, spheroidite+widmanstatten,599
+599,Micrograph 600, Not available, None,600
+600,Micrograph 601, AC1 800C 24H Q, spheroidite,601
+601,Micrograph 602, Not available, pearlite+spheroidite,602
+602,Micrograph 603, IN3 Unetched, crack,603
+603,Micrograph 604, IN1 Etched Sample, pearlite,604
+604,Micrograph 605, SIS_XL.TIF, quality,605
+605,Micrograph 606, Not available, None,606
+606,Micrograph 607, AC1 970 5M FC, spheroidite,607
+607,Micrograph 608, AC1 970C 24H Q, network,608
+608,Micrograph 609, AC1 970C 90M 65C 4H FC, pearlite+spheroidite,609
+609,Micrograph 610, IN1 Etched Sample, network,610
+610,Micrograph 611, AC1 970C 48H Q, spheroidite,611
+611,Micrograph 612, Not available, None,612
+612,Micrograph 613, IN3 Unetched, crack,613
+613,Micrograph 614, AC1 800C 5M Q, None,614
+614,Micrograph 615, AC1 970C 90M AR, network,615
+615,Micrograph 616, AC1 970C 24H Q, spheroidite,616
+616,Micrograph 617, IN3 Unetched, crack,617
+617,Micrograph 618, SIS_XL.TIF, quality,618
+618,Micrograph 619, Not available, None,619
+619,Micrograph 620, SIS_XL.TIF, None,620
+620,Micrograph 621, SIS_XL.TIF, None,621
+621,Micrograph 622, SIS_XL.TIF, crack,622
+622,Micrograph 623, SIS_XL.TIF, crack,623
+623,Micrograph 624, Not available, None,624
+624,Micrograph 625, AC1 970C 90M AR, network,625
+625,Micrograph 626, AC1 970C 90M 65C 4H FC, network,626
+626,Micrograph 627, SIS_XL.TIF, None,627
+627,Micrograph 628, AC1 970C 90M Q, spheroidite+widmanstatten,628
+628,Micrograph 629, Not available, None,629
+629,Micrograph 630, SIS_XL.TIF, indent,630
+630,Micrograph 631, IN1 Etched Sample, quality,631
+631,Micrograph 632, AC1 900C 90M Q, spheroidite,632
+632,Micrograph 633, AC1 800C 3H Q, spheroidite,633
+633,Micrograph 634, Midrex DRI, hole,634
+634,Micrograph 635, SIS_XL.TIF, sample,635
+635,Micrograph 636, AC1 970C 90M Q, None,636
+636,Micrograph 637, Not available, pearlite+spheroidite,637
+637,Micrograph 638, SIS_XL.TIF, None,638
+638,Micrograph 639, AC1 900C 90M Q, spheroidite,639
+639,Micrograph 640, AC1 970C 8H Q, spheroidite+widmanstatten,640
+640,Micrograph 641, AC 800C 8H Q, spheroidite,641
+641,Micrograph 642, AC1 970C 90M 65C 4H FC, network,642
+642,Micrograph 643, AC1 800C 8H Q, spheroidite+widmanstatten,643
+643,Micrograph 644, Not available, pearlite+spheroidite,644
+644,Micrograph 645, SIS_XL.TIF, sample,645
+645,Micrograph 646, AC1 970C 3H Q, network,646
+646,Micrograph 647, SIS_XL.TIF, None,647
+647,Micrograph 648, Not available, pearlite+spheroidite,648
+648,Micrograph 649, AC1 970C 90M 65C 4H FC, network,649
+649,Micrograph 650, AC1 970C 24H Q, spheroidite+widmanstatten,650
+650,Micrograph 651, IN3 Unetched, crack,651
+651,Micrograph 652, Not available, pearlite,652
+652,Micrograph 653, Not available, None,653
+653,Micrograph 654, IN1 Etched Sample, quality,654
+654,Micrograph 655, AC1 970C 24H Q, spheroidite,655
+655,Micrograph 656, Not available, pearlite+spheroidite,656
+656,Micrograph 657, AC1 970 5M FC, quality,657
+657,Micrograph 658, SIS_XL.TIF, hole,658
+658,Micrograph 659, AC1 800C 5M Q, network,659
+659,Micrograph 660, AC1 1100C 1H 650C 1H, pearlite+spheroidite,660
+660,Micrograph 661, Not available, quality,661
+661,Micrograph 662, Not available, quality,662
+662,Micrograph 663, SIS_XL.TIF, indent,663
+663,Micrograph 664, AC1 970C 3H Q, spheroidite,664
+664,Micrograph 665, AC1 970C 90M FC, sample,665
+665,Micrograph 666, SIS_XL.TIF, quality,666
+666,Micrograph 667, Not available, None,667
+667,Micrograph 668, AC1 900C 5M Q, None,668
+668,Micrograph 669, AC1 970C 90M FC, None,669
+669,Micrograph 670, AC 800C 8H Q, spheroidite,670
+670,Micrograph 671, AC1 800C 24H Q, spheroidite,671
+671,Micrograph 672, Not available, pearlite+spheroidite,672
+672,Micrograph 673, SIS_XL.TIF, indent,673
+673,Micrograph 674, Not available, quality,674
+674,Micrograph 675, IN3 Unetched, quality,675
+675,Micrograph 676, Not available, pearlite+spheroidite,676
+676,Micrograph 677, AC1 1100C 1H 650C 1H, pearlite+spheroidite,677
+677,Micrograph 678, AC1 800C 85H Q, spheroidite,678
+678,Micrograph 679, AC1 900C 90M Q, spheroidite,679
+679,Micrograph 680, Not available, quality,680
+680,Micrograph 681, AC1 970C 8H Q, spheroidite,681
+681,Micrograph 682, SIS_XL.TIF, network,682
+682,Micrograph 683, AC1 800C 85H Q, spheroidite,683
+683,Micrograph 684, AC1 970C 24H Q, spheroidite,684
+684,Micrograph 685, AC1 970C 24H Q, spheroidite,685
+685,Micrograph 686, AC1 970C 90M FC, None,686
+686,Micrograph 687, AC1 970C 24H Q, network,687
+687,Micrograph 688, IN3 Unetched, quality,688
+688,Micrograph 689, AC1 970C 8H Q, spheroidite,689
+689,Micrograph 690, Not available, network,690
+690,Micrograph 691, SIS_XL.TIF, pearlite,691
+691,Micrograph 692, Not available, None,692
+692,Micrograph 693, Not available, None,693
+693,Micrograph 694, AC1 970C 24H Q, spheroidite,694
+694,Micrograph 695, ET Gyro, figure,695
+695,Micrograph 696, Not available, None,696
+696,Micrograph 697, SIS_XL.TIF, None,697
+697,Micrograph 698, Not available, None,698
+698,Micrograph 699, AC 800C 8H Q, spheroidite,699
+699,Micrograph 700, IN1 Etched Sample, quality,700
+700,Micrograph 701, Not available, None,701
+701,Micrograph 702, ET Gyro, network,702
+702,Micrograph 703, AC1 970C 24H FC, sample,703
+703,Micrograph 704, AC1 970C 90M FC, pearlite+spheroidite,704
+704,Micrograph 705, AC1 800C 85H Q, spheroidite,705
+705,Micrograph 706, Not available, pearlite,706
+706,Micrograph 707, AC1 970C 90M Q, spheroidite+widmanstatten,707
+707,Micrograph 708, AC1 970C 90M Q, spheroidite,708
+708,Micrograph 709, SIS_XL.TIF, quality,709
+709,Micrograph 710, AC1 800C 8H Q, spheroidite+widmanstatten,710
+710,Micrograph 711, AC1 970 5M FC, quality,711
+711,Micrograph 712, SIS_XL.TIF, crack,712
+712,Micrograph 713, AC1 970 5M FC, sample,713
+713,Micrograph 714, AC1 970C 90M Q, spheroidite,714
+714,Micrograph 715, SIS_XL.TIF, None,715
+715,Micrograph 716, Not available, pearlite+spheroidite,716
+716,Micrograph 717, AC1 970C 90M Q, spheroidite+widmanstatten,717
+717,Micrograph 718, AC1 970C 24H Q, spheroidite,718
+718,Micrograph 719, SIS_XL.TIF, indent,719
+719,Micrograph 720, AC1 800C 24H Q, quality,720
+720,Micrograph 721, AC1 1100C 1H 650C 1H, network,721
+721,Micrograph 722, SIS_XL.TIF, indent,722
+722,Micrograph 723, SIS_XL.TIF, indent,723
+723,Micrograph 724, Not available, None,724
+724,Micrograph 725, ET Gyro, pearlite,725
+725,Micrograph 726, SIS_XL.TIF, None,726
+726,Micrograph 727, IN1 Etched Sample, pearlite+spheroidite,727
+727,Micrograph 728, AC1 700C 5M Q, network,728
+728,Micrograph 729, IN1 Etched Sample, quality,729
+729,Micrograph 730, Not available, None,730
+730,Micrograph 731, IN3 Unetched, quality,731
+731,Micrograph 732, IN1 Etched Sample, network,732
+732,Micrograph 733, Not available, None,733
+733,Micrograph 734, AC1 900C 24H Q, spheroidite,734
+734,Micrograph 735, Not available, crack,735
+735,Micrograph 736, AC1 970C 24H Q, spheroidite,736
+736,Micrograph 737, Not available, network,737
+737,Micrograph 738, AC1 970C 90M Q, network,738
+738,Micrograph 739, Not available, quality,739
+739,Micrograph 740, Not available, quality,740
+740,Micrograph 741, AC1 970C 90M 65C 4H FC, network,741
+741,Micrograph 742, IN1 Etched Sample, pearlite+spheroidite,742
+742,Micrograph 743, IN3 Unetched, quality,743
+743,Micrograph 744, SIS_XL.TIF, pearlite,744
+744,Micrograph 745, AC1 970C 90M AR, spheroidite,745
+745,Micrograph 746, AC1 970C 8H Q, spheroidite,746
+746,Micrograph 747, AC1 800C 85H Q, spheroidite,747
+747,Micrograph 748, SIS_XL.TIF, crack,748
+748,Micrograph 749, AC1 970C 90M 65C 4H FC, pearlite+spheroidite,749
+749,Micrograph 750, SIS_XL.TIF, crack,750
+750,Micrograph 751, Not available, None,751
+751,Micrograph 752, SIS_XL.TIF, None,752
+752,Micrograph 753, Not available, pearlite+widmanstatten,753
+753,Micrograph 754, AC1 970C 24H FC, sample,754
+754,Micrograph 755, SIS_XL.TIF, network,755
+755,Micrograph 756, AC1 970C 90M Q, spheroidite,756
+756,Micrograph 757, Not available, pearlite,757
+757,Micrograph 758, Not available, pearlite+spheroidite,758
+758,Micrograph 759, Not available, quality,759
+759,Micrograph 760, IN3 Unetched, quality,760
+760,Micrograph 761, Not available, quality,761
+761,Micrograph 762, AC1 800C 24H Q, spheroidite,762
+762,Micrograph 763, Not available, quality,763
+763,Micrograph 764, AC1 970C 8H Q, spheroidite,764
+764,Micrograph 765, Not available, pearlite+spheroidite,765
+765,Micrograph 766, SIS_XL.TIF, sample,766
+766,Micrograph 767, ET Gyro, quality,767
+767,Micrograph 768, Not available, pearlite,768
+768,Micrograph 769, IN1 Etched Sample, hole,769
+769,Micrograph 770, SIS_XL.TIF, indent,770
+770,Micrograph 771, Not available, pearlite+spheroidite,771
+771,Micrograph 772, AC1 800C 85H Q, spheroidite,772
+772,Micrograph 773, Not available, pearlite,773
+773,Micrograph 774, AC1 970C 24H Q, None,774
+774,Micrograph 775, SIS_XL.TIF, pearlite,775
+775,Micrograph 776, AC1 970C 90M Q, spheroidite,776
+776,Micrograph 777, AC1 970C 90M Q, None,777
+777,Micrograph 778, Not available, None,778
+778,Micrograph 779, AC1 1100C 1H 650C 1H, pearlite+spheroidite,779
+779,Micrograph 780, Not available, hole,780
+780,Micrograph 781, IN1 Etched Sample, quality,781
+781,Micrograph 782, Not available, None,782
+782,Micrograph 783, Not available, hole,783
+783,Micrograph 784, Not available, pearlite,784
+784,Micrograph 785, AC1 IS1010H 35X etched, martensite,785
+785,Micrograph 786, SIS_XL.TIF, None,786
+786,Micrograph 787, SIS_XL.TIF, crack,787
+787,Micrograph 788, ET Gyro, quality,788
+788,Micrograph 789, Not available, crack,789
+789,Micrograph 790, SIS_XL.TIF, hole,790
+790,Micrograph 791, AC1 970C 90M Q, network,791
+791,Micrograph 792, SIS_XL.TIF, None,792
+792,Micrograph 793, SIS_XL.TIF, None,793
+793,Micrograph 794, SIS_XL.TIF, hole,794
+794,Micrograph 795, IN1 Etched Sample, network,795
+795,Micrograph 796, SIS_XL.TIF, pearlite,796
+796,Micrograph 797, Not available, None,797
+797,Micrograph 798, SIS_XL.TIF, pearlite,798
+798,Micrograph 799, SIS_XL.TIF, network,799
+799,Micrograph 800, SIS_XL.TIF, None,800
+800,Micrograph 801, Not available, None,801
+801,Micrograph 802, Not available, None,802
+802,Micrograph 803, Not available, pearlite,803
+803,Micrograph 804, SIS_XL.TIF, sample,804
+804,Micrograph 805, ET Gyro, network,805
+805,Micrograph 806, IN1 Etched Sample, network,806
+806,Micrograph 807, Not available, network,807
+807,Micrograph 808, Not available, pearlite+spheroidite,808
+808,Micrograph 809, IN3 Unetched, crack,809
+809,Micrograph 810, Not available, quality,810
+810,Micrograph 811, AC1 900C 90M Q, spheroidite+widmanstatten,811
+811,Micrograph 812, Not available, crack,812
+812,Micrograph 813, IN1 Etched Sample, network,813
+813,Micrograph 814, AC1 800C 5M Q, pearlite,814
+814,Micrograph 815, Not available, network,815
+815,Micrograph 816, AC1 1000C 5M Q, spheroidite+widmanstatten,816
+816,Micrograph 817, Not available, None,817
+817,Micrograph 818, Not available, None,818
+818,Micrograph 819, IN3 Unetched, quality,819
+819,Micrograph 820, AC1 800C 90M Q, network,820
+820,Micrograph 821, AC1 970C 90M Q, spheroidite+widmanstatten,821
+821,Micrograph 822, SIS_XL.TIF, None,822
+822,Micrograph 823, AC1 970 5M FC, sample,823
+823,Micrograph 824, IN3 Unetched, hole,824
+824,Micrograph 825, Not available, pearlite+spheroidite,825
+825,Micrograph 826, SIS_XL.TIF, None,826
+826,Micrograph 827, Gaunt - Utah 1.5 yr explant M, quality,827
+827,Micrograph 828, SIS_XL.TIF, pearlite,828
+828,Micrograph 829, SIS_XL.TIF, None,829
+829,Micrograph 830, SIS_XL.TIF, None,830
+830,Micrograph 831, AC1 800C 85H Q, spheroidite,831
+831,Micrograph 832, AC1 970C 90M Q, spheroidite+widmanstatten,832
+832,Micrograph 833, AC1 800C 5M Q, pearlite,833
+833,Micrograph 834, AC1 970C 90M FC, sample,834
+834,Micrograph 835, Not available, network,835
+835,Micrograph 836, Not available, pearlite+widmanstatten,836
+836,Micrograph 837, Not available, None,837
+837,Micrograph 838, SIS_XL.TIF, None,838
+838,Micrograph 839, IN1 Etched Sample, sample,839
+839,Micrograph 840, SIS_XL.TIF, None,840
+840,Micrograph 841, AC1 970C 90M AR, network,841
+841,Micrograph 842, SIS_XL.TIF, indent,842
+842,Micrograph 843, Not available, network,843
+843,Micrograph 844, SIS_XL.TIF, network,844
+844,Micrograph 845, Not available, network,845
+845,Micrograph 846, AC1 970C 90M 65C 4H FC, quality,846
+846,Micrograph 847, AC1 + vickers mark, network,847
+847,Micrograph 848, Not available, hole,848
+848,Micrograph 849, SIS_XL.TIF, None,849
+849,Micrograph 850, AC1 700C 5M Q, pearlite,850
+850,Micrograph 851, Not available, None,851
+851,Micrograph 852, SIS_XL.TIF, pearlite,852
+852,Micrograph 853, Not available, quality,853
+853,Micrograph 854, AC1 970C 24H Q, spheroidite,854
+854,Micrograph 855, SIS_XL.TIF, network,855
+855,Micrograph 856, ET Gyro, quality,856
+856,Micrograph 857, Not available, pearlite+widmanstatten,857
+857,Micrograph 858, AC1 800C 8H Q, spheroidite,858
+858,Micrograph 859, AC1 800C 24H Q, spheroidite,859
+859,Micrograph 860, IN3 Unetched, hole,860
+860,Micrograph 861, SIS_XL.TIF, network,861
+861,Micrograph 862, AC1 970 5M FC, spheroidite+widmanstatten,862
+862,Micrograph 863, Not available, quality,863
+863,Micrograph 864, AC1 970C 90M Q, spheroidite,864
+864,Micrograph 865, AC1 970C 90M FC, network,865
+865,Micrograph 866, SIS_XL.TIF, pearlite+spheroidite,866
+866,Micrograph 867, AC1 900C 3H Q, spheroidite,867
+867,Micrograph 868, Not available, None,868
+868,Micrograph 869, AC1 800C 24H Q, quality,869
+869,Micrograph 870, SIS_XL.TIF, None,870
+870,Micrograph 871, AC1 1100C 1H 650C 1H, pearlite+spheroidite,871
+871,Micrograph 872, Not available, crack,872
+872,Micrograph 873, AC1 900C 90M Q, spheroidite+widmanstatten,873
+873,Micrograph 874, Not available, hole,874
+874,Micrograph 875, Not available, pearlite+widmanstatten,875
+875,Micrograph 876, AC1 970C 90M Q, None,876
+876,Micrograph 877, SIS_XL.TIF, network,877
+877,Micrograph 878, AC1 970C 90M FC, quality,878
+878,Micrograph 879, Gaunt - Utah 1.5 yr explant M, quality,879
+879,Micrograph 880, SIS_XL.TIF, pearlite,880
+880,Micrograph 881, AC1 970C 90M Q, spheroidite+widmanstatten,881
+881,Micrograph 882, Not available, pearlite+widmanstatten,882
+882,Micrograph 883, AC1 900C 3H Q, spheroidite,883
+883,Micrograph 884, AC1 1000C 5M Q, spheroidite+widmanstatten,884
+884,Micrograph 885, AC 800C 8H Q, spheroidite,885
+885,Micrograph 886, Not available, None,886
+886,Micrograph 887, AC1 800C 8H Q, spheroidite,887
+887,Micrograph 888, AC1 970C 90M Q, spheroidite,888
+888,Micrograph 889, AC1 970C 24H Q, spheroidite,889
+889,Micrograph 890, AC1 970 5M FC, spheroidite+widmanstatten,890
+890,Micrograph 891, Not available, pearlite,891
+891,Micrograph 892, AC1 970C 90M FC, quality,892
+892,Micrograph 893, AC1 1000C 5M Q, spheroidite+widmanstatten,893
+893,Micrograph 894, AC1 900C 90M Q, spheroidite,894
+894,Micrograph 895, IN1 Etched Sample, hole,895
+895,Micrograph 896, ET Gyro, pearlite,896
+896,Micrograph 897, AC1 + vickers mark, network,897
+897,Micrograph 898, SIS_XL.TIF, indent,898
+898,Micrograph 899, Not available, None,899
+899,Micrograph 900, Not available, None,900
+900,Micrograph 901, Not available, None,901
+901,Micrograph 902, Not available, None,902
+902,Micrograph 903, SIS_XL.TIF, indent,903
+903,Micrograph 904, IN3 Unetched, quality,904
+904,Micrograph 905, AC1 970C 24H Q, spheroidite+widmanstatten,905
+905,Micrograph 906, AC1 900C 24H Q, spheroidite,906
+906,Micrograph 907, AC1 970C 8H Q, spheroidite,907
+907,Micrograph 908, Not available, pearlite+spheroidite,908
+908,Micrograph 909, AC1 IS1010H 35X etched, network,909
+909,Micrograph 910, Not available, pearlite+spheroidite,910
+910,Micrograph 911, Not available, pearlite+widmanstatten,911
+911,Micrograph 912, AC1 900C 90M Q, spheroidite,912
+912,Micrograph 913, AC1 800C 5M Q, None,913
+913,Micrograph 914, AC1 970C 8H Q, spheroidite,914
+914,Micrograph 915, AC1 970C 8H Q, spheroidite+widmanstatten,915
+915,Micrograph 916, Not available, pearlite+spheroidite,916
+916,Micrograph 917, AC1 970C 3H Q, spheroidite,917
+917,Micrograph 918, SIS_XL.TIF, spheroidite+widmanstatten,918
+918,Micrograph 919, IN3 Unetched, quality,919
+919,Micrograph 920, AC1 800C 5M Q, pearlite,920
+920,Micrograph 921, AC1 970C 90M AR, network,921
+921,Micrograph 922, Not available, pearlite,922
+922,Micrograph 923, SIS_XL.TIF, indent,923
+923,Micrograph 924, SIS_XL.TIF, indent,924
+924,Micrograph 925, SIS_XL.TIF, network,925
+925,Micrograph 926, Not available, pearlite+spheroidite,926
+926,Micrograph 927, Not available, network,927
+927,Micrograph 928, AC1 970C 90M Q, pearlite,928
+928,Micrograph 929, AC1 970 5M FC, sample,929
+929,Micrograph 930, Not available, crack,930
+930,Micrograph 931, AC1 970C 24H Q, spheroidite,931
+931,Micrograph 932, Not available, pearlite+widmanstatten,932
+932,Micrograph 933, AC1 800C 3H Q, spheroidite,933
+933,Micrograph 934, AC1 IS1010H 35X etched, network,934
+934,Micrograph 935, AC1 900C 90M Q, spheroidite+widmanstatten,935
+935,Micrograph 936, AC1 800C 3H Q, spheroidite,936
+936,Micrograph 937, SIS_XL.TIF, indent,937
+937,Micrograph 938, Not available, None,938
+938,Micrograph 939, AC 800C 8H Q, spheroidite,939
+939,Micrograph 940, AC1 970C 90M Q, sample,940
+940,Micrograph 941, SIS_XL.TIF, network,941
+941,Micrograph 942, AC1 900C 5M Q, None,942
+942,Micrograph 943, Not available, None,943
+943,Micrograph 944, Not available, quality,944
+944,Micrograph 945, Midrex DRI, sample,945
+945,Micrograph 946, Not available, None,946
+946,Micrograph 947, AC1 970C 8H Q, spheroidite,947
+947,Micrograph 948, IN3 Unetched, quality,948
+948,Micrograph 949, Not available, network,949
+949,Micrograph 950, SIS_XL.TIF, indent,950
+950,Micrograph 951, SIS_XL.TIF, martensite,951
+951,Micrograph 952, AC1 900C 3H Q, spheroidite,952
+952,Micrograph 953, Not available, pearlite,953
+953,Micrograph 954, AC1 IS1010H 35X etched, martensite,954
+954,Micrograph 955, AC1 970 5M FC, spheroidite+widmanstatten,955
+955,Micrograph 956, AC1 970C 24H Q, spheroidite,956
+956,Micrograph 957, Not available, crack,957
+957,Micrograph 958, Midrex DRI, quality,958
+958,Micrograph 959, AC1 970 5M FC, network,959
+959,Micrograph 960, SIS_XL.TIF, hole,960
+960,Micrograph 961, Not available, network,961
+961,Micrograph 962, ET Gyro, quality,962
+962,Micrograph 963, SIS_XL.TIF, martensite,963
+963,Micrograph 964, SIS_XL.TIF, indent,964
+964,Micrograph 965, AC1 970 5M FC, network,965
+965,Micrograph 966, IN3 Unetched, sample,966
+966,Micrograph 967, AC1 1000C 5M Q, spheroidite+widmanstatten,967
+967,Micrograph 968, SIS_XL.TIF, network,968
+968,Micrograph 969, Not available, hole,969
+969,Micrograph 970, AC1 900C 24H Q, spheroidite,970
+970,Micrograph 971, SIS_XL.TIF, network,971
+971,Micrograph 972, SIS_XL.TIF, indent,972
+972,Micrograph 973, AC1 + vickers mark, network,973
+973,Micrograph 974, AC1 970C 24H Q, spheroidite+widmanstatten,974
+974,Micrograph 975, AC1 970C 5M Q, crack,975
+975,Micrograph 976, SIS_XL.TIF, sample,976
+976,Micrograph 977, AC1 970C 90M 65C 4H FC, quality,977
+977,Micrograph 978, IN3 Unetched, crack,978
+978,Micrograph 979, IN3 Unetched, hole,979
+979,Micrograph 980, IN3 Unetched, sample,980
+980,Micrograph 981, SIS_XL.TIF, indent,981
+981,Micrograph 982, SIS_XL.TIF, quality,982
+982,Micrograph 983, SIS_XL.TIF, quality,983
+983,Micrograph 984, AC1 IS1010H 35X etched, martensite,984
+984,Micrograph 985, SIS_XL.TIF, pearlite,985
+985,Micrograph 986, AC1 970C 8H Q, spheroidite,986
+986,Micrograph 987, SIS_XL.TIF, indent,987
+987,Micrograph 988, IN3 Unetched, crack,988
+988,Micrograph 989, AC1 970C 8H Q, spheroidite+widmanstatten,989
+989,Micrograph 990, AC1 900C 90M Q, spheroidite,990
+990,Micrograph 991, AC1 800C 3H Q, spheroidite,991
+991,Micrograph 992, IN3 Unetched, crack,992
+992,Micrograph 993, Not available, None,993
+993,Micrograph 994, Not available, pearlite+spheroidite,994
+994,Micrograph 995, AC1 970 5M FC, spheroidite,995
+995,Micrograph 996, SIS_XL.TIF, hole,996
+996,Micrograph 997, AC1 1100C 1H 650C 1H, pearlite+spheroidite,997
+997,Micrograph 998, AC 800C 8H Q, spheroidite,998
+998,Micrograph 999, AC1 970C 48H Q, network,999
+999,Micrograph 1000, Not available, quality,1000
+1000,Micrograph 1001, ET Gyro, network,1001
+1001,Micrograph 1002, SIS_XL.TIF, quality,1002
+1002,Micrograph 1003, AC1 970C 5M Q, spheroidite+widmanstatten,1003
+1003,Micrograph 1004, IN3 Unetched, quality,1004
+1004,Micrograph 1005, AC1 970 5M FC, spheroidite+widmanstatten,1005
+1005,Micrograph 1006, AC1 900C 90M Q, spheroidite,1006
+1006,Micrograph 1007, AC1 970 5M FC, quality,1007
+1007,Micrograph 1008, AC1 970C 90M Q, spheroidite,1008
+1008,Micrograph 1009, SIS_XL.TIF, martensite,1009
+1009,Micrograph 1010, Not available, network,1010
+1010,Micrograph 1011, ET Gyro, pearlite,1011
+1011,Micrograph 1012, AC1 IS1010H 35X etched, martensite,1012
+1012,Micrograph 1013, AC1 970C 5M Q, spheroidite,1013
+1013,Micrograph 1014, SIS_XL.TIF, quality,1014
+1014,Micrograph 1015, AC 800C 8H Q, spheroidite,1015
+1015,Micrograph 1016, Not available, None,1016
+1016,Micrograph 1017, AC1 900C 3H Q, spheroidite,1017
+1017,Micrograph 1018, AC1 970C 90M Q, spheroidite,1018
+1018,Micrograph 1019, AC1 970 5M FC, network,1019
+1019,Micrograph 1020, AC1 800C 90M Q, spheroidite,1020
+1020,Micrograph 1021, AC1 800C 900C 970C 90M Q, None,1021
+1021,Micrograph 1022, AC1 970C 90M Q, spheroidite,1022
+1022,Micrograph 1023, Not available, network,1023
+1023,Micrograph 1024, SIS_XL.TIF, quality,1024
+1024,Micrograph 1025, SIS_XL.TIF, pearlite,1025
+1025,Micrograph 1026, Not available, network,1026
+1026,Micrograph 1027, AC1 970C 90M Q, spheroidite,1027
+1027,Micrograph 1028, AC1 800C 8H Q, spheroidite,1028
+1028,Micrograph 1029, Not available, quality,1029
+1029,Micrograph 1030, AC1 IS1010H 35X etched, martensite,1030
+1030,Micrograph 1031, AC1 800C 3H Q, spheroidite,1031
+1031,Micrograph 1032, AC1 970C 3H Q, spheroidite,1032
+1032,Micrograph 1033, Not available, pearlite+spheroidite,1033
+1033,Micrograph 1034, AC1 970C 90M Q, None,1034
+1034,Micrograph 1035, AC1 1000C 5M Q, network,1035
+1035,Micrograph 1036, SIS_XL.TIF, quality,1036
+1036,Micrograph 1037, Not available, None,1037
+1037,Micrograph 1038, AC1 800C 85H Q, spheroidite,1038
+1038,Micrograph 1039, Not available, pearlite,1039
+1039,Micrograph 1040, AC1 + vickers mark, network,1040
+1040,Micrograph 1041, Not available, quality,1041
+1041,Micrograph 1042, IN3 Unetched, crack,1042
+1042,Micrograph 1043, Not available, None,1043
+1043,Micrograph 1044, IN3 Unetched, hole,1044
+1044,Micrograph 1045, AC1 970C 24H Q, spheroidite,1045
+1045,Micrograph 1046, Not available, pearlite+widmanstatten,1046
+1046,Micrograph 1047, Not available, None,1047
+1047,Micrograph 1048, SIS_XL.TIF, martensite,1048
+1048,Micrograph 1049, AC1 970C 24H Q, network,1049
+1049,Micrograph 1050, Not available, sample,1050
+1050,Micrograph 1051, IN3 Unetched, crack,1051
+1051,Micrograph 1052, AC1 970C 90M AR, spheroidite,1052
+1052,Micrograph 1053, ET Gyro, pearlite,1053
+1053,Micrograph 1054, AC1 970C 8H Q, spheroidite,1054
+1054,Micrograph 1055, AC1 IS1010H 35X etched, martensite,1055
+1055,Micrograph 1056, AC1 970C 24H Q, spheroidite,1056
+1056,Micrograph 1057, AC1 970 5M FC, spheroidite+widmanstatten,1057
+1057,Micrograph 1058, AC1 970C 3H Q, spheroidite,1058
+1058,Micrograph 1059, AC1 800C 85H Q, spheroidite,1059
+1059,Micrograph 1060, SIS_XL.TIF, None,1060
+1060,Micrograph 1061, AC1 970C 3H Q, spheroidite,1061
+1061,Micrograph 1062, IN1 Etched Sample, pearlite,1062
+1062,Micrograph 1063, AC1 900C 5M Q, spheroidite+widmanstatten,1063
+1063,Micrograph 1064, IN1 Etched Sample, network,1064
+1064,Micrograph 1065, Not available, None,1065
+1065,Micrograph 1066, IN3 Unetched, crack,1066
+1066,Micrograph 1067, Not available, None,1067
+1067,Micrograph 1068, AC1 1100C 1H 650C 1H, pearlite+spheroidite,1068
+1068,Micrograph 1069, AC1 970 5M FC, sample,1069
+1069,Micrograph 1070, AC1 970C 90M Q, quality,1070
+1070,Micrograph 1071, SIS_XL.TIF, None,1071
+1071,Micrograph 1072, AC1 970C 90M 65C 4H FC, network,1072
+1072,Micrograph 1073, Not available, None,1073
+1073,Micrograph 1074, AC1 800C 90M Q, None,1074
+1074,Micrograph 1075, AC1 970C 24H Q, network,1075
+1075,Micrograph 1076, ET Gyro, pearlite,1076
+1076,Micrograph 1077, Not available, network,1077
+1077,Micrograph 1078, AC1 800C 5M Q, pearlite+widmanstatten,1078
+1078,Micrograph 1079, SIS_XL.TIF, martensite,1079
+1079,Micrograph 1080, Not available, network,1080
+1080,Micrograph 1081, Not available, None,1081
+1081,Micrograph 1082, Not available, network,1082
+1082,Micrograph 1083, IN1 Etched Sample, pearlite,1083
+1083,Micrograph 1084, SIS_XL.TIF, indent,1084
+1084,Micrograph 1085, AC1 970C 90M Q, quality,1085
+1085,Micrograph 1086, SIS_XL.TIF, None,1086
+1086,Micrograph 1087, SIS_XL.TIF, None,1087
+1087,Micrograph 1088, AC1 970C 24H FC, sample,1088
+1088,Micrograph 1089, AC1 970C 24H FC, sample,1089
+1089,Micrograph 1090, SIS_XL.TIF, None,1090
+1090,Micrograph 1091, Not available, quality,1091
+1091,Micrograph 1092, AC1 800C 3H Q, spheroidite,1092
+1092,Micrograph 1093, AC1 970C 5M Q, spheroidite+widmanstatten,1093
+1093,Micrograph 1094, AC1 970C 3H Q, spheroidite,1094
+1094,Micrograph 1095, SIS_XL.TIF, None,1095
+1095,Micrograph 1096, AC1 800C 24H Q, spheroidite,1096
+1096,Micrograph 1097, Not available, pearlite+widmanstatten,1097
+1097,Micrograph 1098, AC1 900C 90M Q, spheroidite,1098
+1098,Micrograph 1099, SIS_XL.TIF, None,1099
+1099,Micrograph 1100, SIS_XL.TIF, pearlite,1100
+1100,Micrograph 1101, SIS_XL.TIF, pearlite,1101
+1101,Micrograph 1102, ET Gyro, pearlite,1102
+1102,Micrograph 1103, AC1 800C 85H Q, spheroidite,1103
+1103,Micrograph 1104, AC1 700C 5M Q, pearlite+widmanstatten,1104
+1104,Micrograph 1105, AC1 800C 8H Q, spheroidite,1105
+1105,Micrograph 1106, AC1 700C 5M Q, pearlite,1106
+1106,Micrograph 1107, Not available, None,1107
+1107,Micrograph 1108, SIS_XL.TIF, None,1108
+1108,Micrograph 1109, AC1 900C 90M Q, network,1109
+1109,Micrograph 1110, AC1 800C 3H Q, crack,1110
+1110,Micrograph 1111, IN1 Etched Sample, network,1111
+1111,Micrograph 1112, AC 800C 8H Q, spheroidite,1112
+1112,Micrograph 1113, SIS_XL.TIF, None,1113
+1113,Micrograph 1114, IN3 Unetched, quality,1114
+1114,Micrograph 1115, SIS_XL.TIF, hole,1115
+1115,Micrograph 1116, Not available, None,1116
+1116,Micrograph 1117, AC1 970C 24H Q, spheroidite,1117
+1117,Micrograph 1118, Not available, hole,1118
+1118,Micrograph 1119, SIS_XL.TIF, pearlite,1119
+1119,Micrograph 1120, AC1 800C 24H Q, spheroidite,1120
+1120,Micrograph 1121, 3.1 IN1 Etched Sample 1, figure,1121
+1121,Micrograph 1122, SIS_XL.TIF, indent,1122
+1122,Micrograph 1123, Not available, pearlite+widmanstatten,1123
+1123,Micrograph 1124, Not available, hole,1124
+1124,Micrograph 1125, SIS_XL.TIF, indent,1125
+1125,Micrograph 1126, SIS_XL.TIF, pearlite,1126
+1126,Micrograph 1127, AC1 800C 3H Q, spheroidite,1127
+1127,Micrograph 1128, AC1 970C 3H Q, network,1128
+1128,Micrograph 1129, AC1 970C 90M Q, spheroidite+widmanstatten,1129
+1129,Micrograph 1130, AC1 900C 5M Q, None,1130
+1130,Micrograph 1131, SIS_XL.TIF, sample,1131
+1131,Micrograph 1132, Not available, None,1132
+1132,Micrograph 1133, IN3 Unetched, quality,1133
+1133,Micrograph 1134, AC1 + vickers mark, network,1134
+1134,Micrograph 1135, Not available, None,1135
+1135,Micrograph 1136, AC1 970C 8H Q, spheroidite,1136
+1136,Micrograph 1137, Not available, None,1137
+1137,Micrograph 1138, AC1 800C 900C 970C 90M Q, spheroidite,1138
+1138,Micrograph 1139, AC1 970C 8H Q, spheroidite,1139
+1139,Micrograph 1140, AC1 970C 24H Q, spheroidite,1140
+1140,Micrograph 1141, Not available, None,1141
+1141,Micrograph 1142, Not available, network,1142
+1142,Micrograph 1143, SIS_XL.TIF, hole,1143
+1143,Micrograph 1144, Not available, pearlite,1144
+1144,Micrograph 1145, SIS_XL.TIF, spheroidite,1145
+1145,Micrograph 1146, AC1 970C 8H Q, spheroidite,1146
+1146,Micrograph 1147, SIS_XL.TIF, hole,1147
+1147,Micrograph 1148, Not available, None,1148
+1148,Micrograph 1149, Not available, None,1149
+1149,Micrograph 1150, AC1 970C 90M Q, spheroidite,1150
+1150,Micrograph 1151, SIS_XL.TIF, quality,1151
+1151,Micrograph 1152, Not available, pearlite,1152
+1152,Micrograph 1153, AC1 970C 24H FC, sample,1153
+1153,Micrograph 1154, SIS_XL.TIF, None,1154
+1154,Micrograph 1155, SIS_XL.TIF, pearlite,1155
+1155,Micrograph 1156, AC1 970C 90M Q, spheroidite+widmanstatten,1156
+1156,Micrograph 1157, Not available, pearlite,1157
+1157,Micrograph 1158, SIS_XL.TIF, hole,1158
+1158,Micrograph 1159, AC1 970C 24H Q, spheroidite,1159
+1159,Micrograph 1160, SIS_XL.TIF, indent,1160
+1160,Micrograph 1161, AC1 970C 3H Q, spheroidite,1161
+1161,Micrograph 1162, AC1 700C 5M Q, network,1162
+1162,Micrograph 1163, AC1 970C 24H Q, spheroidite,1163
+1163,Micrograph 1164, AC1 970C 90M FC, spheroidite,1164
+1164,Micrograph 1165, Not available, pearlite,1165
+1165,Micrograph 1166, SIS_XL.TIF, crack,1166
+1166,Micrograph 1167, AC1 800C 900C 970C 90M Q, spheroidite,1167
+1167,Micrograph 1168, Not available, pearlite+spheroidite,1168
+1168,Micrograph 1169, AC1 970 5M FC, sample,1169
+1169,Micrograph 1170, AC1 970C 48H Q, None,1170
+1170,Micrograph 1171, AC1 970C 24H FC, None,1171
+1171,Micrograph 1172, Gaunt - Utah 1.5 yr explant M, quality,1172
+1172,Micrograph 1173, AC1 1000C 5M Q, spheroidite,1173
+1173,Micrograph 1174, SIS_XL.TIF, martensite,1174
+1174,Micrograph 1175, SIS_XL.TIF, hole,1175
+1175,Micrograph 1176, AC1 970C 3H Q, spheroidite,1176
+1176,Micrograph 1177, AC1 IS1010H 35X etched, martensite,1177
+1177,Micrograph 1178, Not available, None,1178
+1178,Micrograph 1179, SIS_XL.TIF, indent,1179
+1179,Micrograph 1180, AC1 970C 8H Q, spheroidite,1180
+1180,Micrograph 1181, AC1 970C 24H FC, None,1181
+1181,Micrograph 1182, AC1 970C 24H Q, network,1182
+1182,Micrograph 1183, AC1 970C 90M AR, spheroidite,1183
+1183,Micrograph 1184, AC1 970C 24H Q, None,1184
+1184,Micrograph 1185, AC1 970C 90M Q, spheroidite,1185
+1185,Micrograph 1186, AC1 970C 3H Q, spheroidite,1186
+1186,Micrograph 1187, SIS_XL.TIF, indent,1187
+1187,Micrograph 1188, AC1 800C 8H Q, spheroidite,1188
+1188,Micrograph 1189, AC1 970C 3H Q, spheroidite,1189
+1189,Micrograph 1190, AC1 900C 5M Q, quality,1190
+1190,Micrograph 1191, Not available, None,1191
+1191,Micrograph 1192, AC1 800C 85H Q, spheroidite,1192
+1192,Micrograph 1193, AC1 970C 48H Q, spheroidite,1193
+1193,Micrograph 1194, AC1 970 5M FC, quality,1194
+1194,Micrograph 1195, AC1 970C 3H Q, spheroidite,1195
+1195,Micrograph 1196, AC1 800C 24H Q, spheroidite,1196
+1196,Micrograph 1197, AC1 800C 24H Q, spheroidite,1197
+1197,Micrograph 1198, AC1 IS1010H 35X etched, network,1198
+1198,Micrograph 1199, AC1 970C 90M Q, spheroidite,1199
+1199,Micrograph 1200, AC1 970C 90M Q, spheroidite,1200
+1200,Micrograph 1201, AC1 970C 24H Q, spheroidite,1201
+1201,Micrograph 1202, AC1 970C 24H Q, spheroidite,1202
+1202,Micrograph 1203, SIS_XL.TIF, hole,1203
+1203,Micrograph 1204, Not available, pearlite+widmanstatten,1204
+1204,Micrograph 1205, AC1 900C 90M Q, spheroidite,1205
+1205,Micrograph 1206, AC1 1100C 1H 650C 1H, pearlite+spheroidite,1206
+1206,Micrograph 1207, AC1 970C 90M FC, spheroidite,1207
+1207,Micrograph 1208, IN3 Unetched, crack,1208
+1208,Micrograph 1209, AC1 970C 24H FC, None,1209
+1209,Micrograph 1210, AC1 970C 3H Q, network,1210
+1210,Micrograph 1211, SIS_XL.TIF, sample,1211
+1211,Micrograph 1212, Not available, None,1212
+1212,Micrograph 1213, ET Gyro, pearlite,1213
+1213,Micrograph 1214, AC1 800C 5M Q, pearlite+widmanstatten,1214
+1214,Micrograph 1215, AC1 800C 5M Q, pearlite+widmanstatten,1215
+1215,Micrograph 1216, SIS_XL.TIF, pearlite,1216
+1216,Micrograph 1217, AC1 970C 3H Q, network,1217
+1217,Micrograph 1218, AC1 970C 90M FC, spheroidite+widmanstatten,1218
+1218,Micrograph 1219, AC1 970C 3H Q, spheroidite+widmanstatten,1219
+1219,Micrograph 1220, ET Gyro, quality,1220
+1220,Micrograph 1221, Not available, quality,1221
+1221,Micrograph 1222, AC1 970 5M FC, quality,1222
+1222,Micrograph 1223, AC1 970C 90M Q, spheroidite,1223
+1223,Micrograph 1224, Not available, None,1224
+1224,Micrograph 1225, AC1 970C 24H Q, None,1225
+1225,Micrograph 1226, IN1 Etched Sample, pearlite+spheroidite,1226
+1226,Micrograph 1227, Not available, pearlite+spheroidite,1227
+1227,Micrograph 1228, Not available, network,1228
+1228,Micrograph 1229, Not available, None,1229
+1229,Micrograph 1230, Not available, None,1230
+1230,Micrograph 1231, Not available, None,1231
+1231,Micrograph 1232, AC1 900C 90M Q, spheroidite,1232
+1232,Micrograph 1233, SIS_XL.TIF, indent,1233
+1233,Micrograph 1234, AC1 800C 3H Q, spheroidite,1234
+1234,Micrograph 1235, SIS_XL.TIF, crack,1235
+1235,Micrograph 1236, IN3 Unetched, quality,1236
+1236,Micrograph 1237, AC1 970C 24H FC, None,1237
+1237,Micrograph 1238, AC1 + vickers mark, network,1238
+1238,Micrograph 1239, AC1 970C 5M Q, spheroidite,1239
+1239,Micrograph 1240, AC1 970 5M FC, network,1240
+1240,Micrograph 1241, Not available, pearlite+spheroidite,1241
+1241,Micrograph 1242, IN1 Etched Sample, quality,1242
+1242,Micrograph 1243, AC1 1100C 1H 650C 1H, pearlite+spheroidite,1243
+1243,Micrograph 1244, SIS_XL.TIF, None,1244
+1244,Micrograph 1245, Not available, None,1245
+1245,Micrograph 1246, AC1 + vickers mark, None,1246
+1246,Micrograph 1247, IN1 Etched Sample, pearlite+spheroidite,1247
+1247,Micrograph 1248, AC1 800C 3H Q, spheroidite,1248
+1248,Micrograph 1249, AC1 970C 90M AR, spheroidite,1249
+1249,Micrograph 1250, ET Gyro, quality,1250
+1250,Micrograph 1251, AC1 + vickers mark, indent,1251
+1251,Micrograph 1252, AC1 970 5M FC, spheroidite+widmanstatten,1252
+1252,Micrograph 1253, Not available, hole,1253
+1253,Micrograph 1254, Not available, network,1254
+1254,Micrograph 1255, Not available, pearlite+widmanstatten,1255
+1255,Micrograph 1256, AC1 970C 90M Q, spheroidite,1256
+1256,Micrograph 1257, AC1 900C 3H Q, spheroidite,1257
+1257,Micrograph 1258, Not available, None,1258
+1258,Micrograph 1259, Not available, network,1259
+1259,Micrograph 1260, AC1 + vickers mark, pearlite,1260
+1260,Micrograph 1261, AC1 900C 24H Q, spheroidite+widmanstatten,1261
+1261,Micrograph 1262, AC1 1000C 5M Q, spheroidite,1262
+1262,Micrograph 1263, ET Gyro, quality,1263
+1263,Micrograph 1264, IN3 Unetched, quality,1264
+1264,Micrograph 1265, AC 800C 8H Q, spheroidite,1265
+1265,Micrograph 1266, AC1 800C 90M Q, network,1266
+1266,Micrograph 1267, Not available, pearlite+widmanstatten,1267
+1267,Micrograph 1268, Not available, pearlite+spheroidite,1268
+1268,Micrograph 1269, Not available, None,1269
+1269,Micrograph 1270, SIS_XL.TIF, indent,1270
+1270,Micrograph 1271, Not available, pearlite+spheroidite,1271
+1271,Micrograph 1272, AC1 800C 3H Q, network,1272
+1272,Micrograph 1273, AC1 970C 90M Q, spheroidite,1273
+1273,Micrograph 1274, Not available, network,1274
+1274,Micrograph 1275, SIS_XL.TIF, hole,1275
+1275,Micrograph 1276, AC1 970C 90M Q, None,1276
+1276,Micrograph 1277, SIS_XL.TIF, None,1277
+1277,Micrograph 1278, IN3 Unetched, crack,1278
+1278,Micrograph 1279, Not available, pearlite,1279
+1279,Micrograph 1280, AC1 970C 90M Q, spheroidite,1280
+1280,Micrograph 1281, AC1 IS1010H 35X etched, martensite,1281
+1281,Micrograph 1282, SIS_XL.TIF, indent,1282
+1282,Micrograph 1283, AC1 970C 3H Q, network,1283
+1283,Micrograph 1284, AC1 970C 24H Q, spheroidite,1284
+1284,Micrograph 1285, AC1 800C 85H Q, spheroidite,1285
+1285,Micrograph 1286, Not available, sample,1286
+1286,Micrograph 1287, Not available, pearlite+widmanstatten,1287
+1287,Micrograph 1288, AC1 970C 24H Q, spheroidite,1288
+1288,Micrograph 1289, AC1 970C 90M Q, spheroidite,1289
+1289,Micrograph 1290, AC1 970C 24H Q, None,1290
+1290,Micrograph 1291, AC1 970C 90M Q, network,1291
+1291,Micrograph 1292, SIS_XL.TIF, indent,1292
+1292,Micrograph 1293, IN1 Etched Sample, quality,1293
+1293,Micrograph 1294, SIS_XL.TIF, pearlite,1294
+1294,Micrograph 1295, AC1 970C 24H Q, spheroidite,1295
+1295,Micrograph 1296, Not available, hole,1296
+1296,Micrograph 1297, Gaunt - Utah 1.5 yr explant M, quality,1297
+1297,Micrograph 1298, AC1 970 5M FC, spheroidite+widmanstatten,1298
+1298,Micrograph 1299, IN3 Unetched, sample,1299
+1299,Micrograph 1300, AC1 800C 5M Q, pearlite,1300
+1300,Micrograph 1301, IN3 Unetched, quality,1301
+1301,Micrograph 1302, AC1 970C 90M FC, network,1302
+1302,Micrograph 1303, Not available, pearlite+spheroidite,1303
+1303,Micrograph 1304, AC1 970C 24H Q, spheroidite,1304
+1304,Micrograph 1305, ET Gyro, network,1305
+1305,Micrograph 1306, AC1 900C 3H Q, spheroidite,1306
+1306,Micrograph 1307, IN3 Unetched, crack,1307
+1307,Micrograph 1308, Not available, hole,1308
+1308,Micrograph 1309, AC1 970C 8H Q, network,1309
+1309,Micrograph 1310, Midrex DRI, sample,1310
+1310,Micrograph 1311, AC1 970C 90M Q, spheroidite+widmanstatten,1311
+1311,Micrograph 1312, AC1 970C 5M Q, crack,1312
+1312,Micrograph 1313, Not available, quality,1313
+1313,Micrograph 1314, IN3 Unetched, crack,1314
+1314,Micrograph 1315, SIS_XL.TIF, indent,1315
+1315,Micrograph 1316, SIS_XL.TIF, martensite,1316
+1316,Micrograph 1317, Not available, quality,1317
+1317,Micrograph 1318, AC 800C 8H Q, spheroidite,1318
+1318,Micrograph 1319, Not available, quality,1319
+1319,Micrograph 1320, Not available, None,1320
+1320,Micrograph 1321, AC1 970C 24H Q, network,1321
+1321,Micrograph 1322, AC1 800C 24H Q, spheroidite,1322
+1322,Micrograph 1323, Not available, None,1323
+1323,Micrograph 1324, SIS_XL.TIF, network,1324
+1324,Micrograph 1325, Not available, None,1325
+1325,Micrograph 1326, SIS_XL.TIF, pearlite,1326
+1326,Micrograph 1327, AC1 970C 3H Q, spheroidite,1327
+1327,Micrograph 1328, Not available, None,1328
+1328,Micrograph 1329, AC 800C 8H Q, spheroidite,1329
+1329,Micrograph 1330, AC1 970C 90M Q, spheroidite,1330
+1330,Micrograph 1331, AC1 970C 8H Q, spheroidite+widmanstatten,1331
+1331,Micrograph 1332, IN1 Etched Sample, pearlite,1332
+1332,Micrograph 1333, SIS_XL.TIF, pearlite,1333
+1333,Micrograph 1334, AC1 970C 24H FC, sample,1334
+1334,Micrograph 1335, Not available, crack,1335
+1335,Micrograph 1336, Not available, hole,1336
+1336,Micrograph 1337, AC1 800C 85H Q, spheroidite,1337
+1337,Micrograph 1338, SIS_XL.TIF, pearlite,1338
+1338,Micrograph 1339, AC1 800C 3H Q, spheroidite,1339
+1339,Micrograph 1340, Not available, quality,1340
+1340,Micrograph 1341, Not available, quality,1341
+1341,Micrograph 1342, Midrex DRI, sample,1342
+1342,Micrograph 1343, Gaunt - Utah 1.5 yr explant M, quality,1343
+1343,Micrograph 1344, AC1 800C 3H Q, network,1344
+1344,Micrograph 1345, SIS_XL.TIF, None,1345
+1345,Micrograph 1346, AC1 970C 5M Q, crack,1346
+1346,Micrograph 1347, AC1 970 5M FC, network,1347
+1347,Micrograph 1348, AC1 900C 3H Q, spheroidite,1348
+1348,Micrograph 1349, AC1 970C 90M Q, spheroidite,1349
+1349,Micrograph 1350, ET Gyro, quality,1350
+1350,Micrograph 1351, AC1 970C 90M Q, network,1351
+1351,Micrograph 1352, SIS_XL.TIF, indent,1352
+1352,Micrograph 1353, Not available, quality,1353
+1353,Micrograph 1354, Not available, None,1354
+1354,Micrograph 1355, SIS_XL.TIF, hole,1355
+1355,Micrograph 1356, AC1 800C 8H Q, spheroidite,1356
+1356,Micrograph 1357, Not available, pearlite+spheroidite,1357
+1357,Micrograph 1358, IN1 Etched Sample, pearlite,1358
+1358,Micrograph 1359, AC1 800C 24H Q, spheroidite,1359
+1359,Micrograph 1360, Midrex DRI, sample,1360
+1360,Micrograph 1361, AC1 970C 3H Q, spheroidite,1361
+1361,Micrograph 1362, SIS_XL.TIF, crack,1362
+1362,Micrograph 1363, IN3 Unetched, hole,1363
+1363,Micrograph 1364, Not available, pearlite,1364
+1364,Micrograph 1365, SIS_XL.TIF, indent,1365
+1365,Micrograph 1366, Not available, pearlite+spheroidite,1366
+1366,Micrograph 1367, AC1 970 5M FC, spheroidite+widmanstatten,1367
+1367,Micrograph 1368, AC1 970C 8H Q, spheroidite,1368
+1368,Micrograph 1369, AC1 970C 24H FC, sample,1369
+1369,Micrograph 1370, SIS_XL.TIF, pearlite+widmanstatten,1370
+1370,Micrograph 1371, ET Gyro, network,1371
+1371,Micrograph 1372, AC 800C 8H Q, spheroidite,1372
+1372,Micrograph 1373, SIS_XL.TIF, indent,1373
+1373,Micrograph 1374, AC1 970C 8H Q, network,1374
+1374,Micrograph 1375, Not available, quality,1375
+1375,Micrograph 1376, Not available, pearlite,1376
+1376,Micrograph 1377, SIS_XL.TIF, sample,1377
+1377,Micrograph 1378, Not available, pearlite,1378
+1378,Micrograph 1379, AC1 970C 24H Q, spheroidite,1379
+1379,Micrograph 1380, IN1 Etched Sample, hole,1380
+1380,Micrograph 1381, SIS_XL.TIF, None,1381
+1381,Micrograph 1382, SIS_XL.TIF, indent,1382
+1382,Micrograph 1383, IN3 Unetched, crack,1383
+1383,Micrograph 1384, SIS_XL.TIF, pearlite,1384
+1384,Micrograph 1385, AC1 970C 90M Q, spheroidite,1385
+1385,Micrograph 1386, SIS_XL.TIF, indent,1386
+1386,Micrograph 1387, SIS_XL.TIF, None,1387
+1387,Micrograph 1388, AC1 800C 85H Q, spheroidite,1388
+1388,Micrograph 1389, AC1 970C 90M Q, spheroidite,1389
+1389,Micrograph 1390, Not available, pearlite+spheroidite,1390
+1390,Micrograph 1391, AC1 800C 24H Q, spheroidite,1391
+1391,Micrograph 1392, AC1 970C 24H Q, spheroidite,1392
+1392,Micrograph 1393, SIS_XL.TIF, pearlite,1393
+1393,Micrograph 1394, AC1 970C 3H Q, network,1394
+1394,Micrograph 1395, Not available, pearlite+widmanstatten,1395
+1395,Micrograph 1396, SIS_XL.TIF, martensite,1396
+1396,Micrograph 1397, SIS_XL.TIF, pearlite,1397
+1397,Micrograph 1398, Not available, pearlite+spheroidite,1398
+1398,Micrograph 1399, AC1 970C 90M 65C 4H FC, network,1399
+1399,Micrograph 1400, AC1 + vickers mark, pearlite,1400
+1400,Micrograph 1401, AC1 + vickers mark, sample,1401
+1401,Micrograph 1402, SIS_XL.TIF, None,1402
+1402,Micrograph 1403, SIS_XL.TIF, crack,1403
+1403,Micrograph 1404, AC1 800C 24H Q, spheroidite,1404
+1404,Micrograph 1405, AC1 800C 900C 970C 90M Q, network,1405
+1405,Micrograph 1406, SIS_XL.TIF, pearlite,1406
+1406,Micrograph 1407, AC1 970C 90M Q, spheroidite,1407
+1407,Micrograph 1408, AC1 800C 24H Q, network,1408
+1408,Micrograph 1409, AC1 970C 3H Q, network,1409
+1409,Micrograph 1410, Not available, quality,1410
+1410,Micrograph 1411, AC1 800C 24H Q, spheroidite,1411
+1411,Micrograph 1412, AC1 970C 24H Q, network,1412
+1412,Micrograph 1413, SIS_XL.TIF, hole,1413
+1413,Micrograph 1414, Not available, pearlite+spheroidite,1414
+1414,Micrograph 1415, AC1 900C 3H Q, spheroidite+widmanstatten,1415
+1415,Micrograph 1416, Not available, None,1416
+1416,Micrograph 1417, Not available, pearlite+widmanstatten,1417
+1417,Micrograph 1418, Not available, hole,1418
+1418,Micrograph 1419, Not available, sample,1419
+1419,Micrograph 1420, AC1 + vickers mark, network,1420
+1420,Micrograph 1421, Not available, quality,1421
+1421,Micrograph 1422, AC1 970C 90M Q, spheroidite,1422
+1422,Micrograph 1423, AC1 800C 24H Q, spheroidite,1423
+1423,Micrograph 1424, AC1 IS1010H 35X etched, martensite,1424
+1424,Micrograph 1425, AC1 800C 8H Q, None,1425
+1425,Micrograph 1426, AC1 900C 24H Q, spheroidite,1426
+1426,Micrograph 1427, AC1 970C 24H Q, spheroidite,1427
+1427,Micrograph 1428, AC1 970C 24H Q, None,1428
+1428,Micrograph 1429, AC1 970C 24H Q, None,1429
+1429,Micrograph 1430, Not available, None,1430
+1430,Micrograph 1431, SIS_XL.TIF, spheroidite+widmanstatten,1431
+1431,Micrograph 1432, Not available, pearlite+spheroidite,1432
+1432,Micrograph 1433, Not available, pearlite+spheroidite,1433
+1433,Micrograph 1434, SIS_XL.TIF, None,1434
+1434,Micrograph 1435, AC1 970 5M FC, spheroidite+widmanstatten,1435
+1435,Micrograph 1436, AC1 + vickers mark, network,1436
+1436,Micrograph 1437, SIS_XL.TIF, None,1437
+1437,Micrograph 1438, Not available, None,1438
+1438,Micrograph 1439, AC1 970C 24H FC, sample,1439
+1439,Micrograph 1440, AC1 970C 24H Q, spheroidite,1440
+1440,Micrograph 1441, AC1 970C 90M 65C 4H FC, pearlite+spheroidite,1441
+1441,Micrograph 1442, AC1 800C 3H Q, crack,1442
+1442,Micrograph 1443, SIS_XL.TIF, crack,1443
+1443,Micrograph 1444, SIS_XL.TIF, network,1444
+1444,Micrograph 1445, Not available, hole,1445
+1445,Micrograph 1446, AC1 970C 90M Q, network,1446
+1446,Micrograph 1447, AC1 900C 90M Q, spheroidite,1447
+1447,Micrograph 1448, Not available, sample,1448
+1448,Micrograph 1449, AC1 IS1010H 35X etched, martensite,1449
+1449,Micrograph 1450, Not available, pearlite+spheroidite,1450
+1450,Micrograph 1451, Gaunt - Utah 1.5 yr explant M, network,1451
+1451,Micrograph 1452, SIS_XL.TIF, pearlite,1452
+1452,Micrograph 1453, IN3 Unetched, hole,1453
+1453,Micrograph 1454, AC1 970C 3H Q, network,1454
+1454,Micrograph 1455, Not available, pearlite+spheroidite,1455
+1455,Micrograph 1456, AC1 970C 90M Q, spheroidite,1456
+1456,Micrograph 1457, AC1 970C 90M AR, spheroidite,1457
+1457,Micrograph 1458, Not available, pearlite+spheroidite,1458
+1458,Micrograph 1459, Not available, None,1459
+1459,Micrograph 1460, Not available, None,1460
+1460,Micrograph 1461, AC1 970C 24H Q, quality,1461
+1461,Micrograph 1462, SIS_XL.TIF, crack,1462
+1462,Micrograph 1463, AC1 970C 24H Q, None,1463
+1463,Micrograph 1464, SIS_XL.TIF, crack,1464
+1464,Micrograph 1465, SIS_XL.TIF, indent,1465
+1465,Micrograph 1466, AC1 970C 24H Q, spheroidite,1466
+1466,Micrograph 1467, SIS_XL.TIF, pearlite,1467
+1467,Micrograph 1468, AC1 970C 3H Q, network,1468
+1468,Micrograph 1469, AC1 900C 3H Q, spheroidite,1469
+1469,Micrograph 1470, SIS_XL.TIF, hole,1470
+1470,Micrograph 1471, AC1 970C 24H FC, sample,1471
+1471,Micrograph 1472, IN1 Etched Sample, quality,1472
+1472,Micrograph 1473, IN1 Etched Sample, pearlite,1473
+1473,Micrograph 1474, AC1 970C 90M Q, spheroidite,1474
+1474,Micrograph 1475, AC1 + vickers mark, indent,1475
+1475,Micrograph 1476, AC1 970C 24H FC, sample,1476
+1476,Micrograph 1477, SIS_XL.TIF, indent,1477
+1477,Micrograph 1478, Not available, quality,1478
+1478,Micrograph 1479, ET Gyro, network,1479
+1479,Micrograph 1480, Not available, quality,1480
+1480,Micrograph 1481, SIS_XL.TIF, None,1481
+1481,Micrograph 1482, AC1 800C 3H Q, spheroidite,1482
+1482,Micrograph 1483, AC1 970C 8H Q, spheroidite,1483
+1483,Micrograph 1484, IN3 Unetched, crack,1484
+1484,Micrograph 1485, SIS_XL.TIF, network,1485
+1485,Micrograph 1486, Not available, quality,1486
+1486,Micrograph 1487, Not available, network,1487
+1487,Micrograph 1488, SIS_XL.TIF, crack,1488
+1488,Micrograph 1489, Not available, pearlite+spheroidite,1489
+1489,Micrograph 1490, AC1 970C 3H Q, network,1490
+1490,Micrograph 1491, SIS_XL.TIF, crack,1491
+1491,Micrograph 1492, AC1 970C 90M FC, spheroidite+widmanstatten,1492
+1492,Micrograph 1493, IN3 Unetched, crack,1493
+1493,Micrograph 1494, AC1 970C 90M 65C 4H FC, sample,1494
+1494,Micrograph 1495, AC1 970C 90M 65C 4H FC, sample,1495
+1495,Micrograph 1496, Midrex DRI, sample,1496
+1496,Micrograph 1497, Not available, pearlite,1497
+1497,Micrograph 1498, AC1 970C 90M FC, sample,1498
+1498,Micrograph 1499, AC1 970C 90M FC, quality,1499
+1499,Micrograph 1500, AC1 970 5M FC, spheroidite+widmanstatten,1500
+1500,Micrograph 1501, ET Gyro, pearlite,1501
+1501,Micrograph 1502, Not available, pearlite+spheroidite,1502
+1502,Micrograph 1503, AC1 970C 90M FC, pearlite+spheroidite,1503
+1503,Micrograph 1504, Not available, network,1504
+1504,Micrograph 1505, IN3 Unetched, crack,1505
+1505,Micrograph 1506, AC1 970C 24H Q, spheroidite,1506
+1506,Micrograph 1507, AC1 900C 90M Q, spheroidite,1507
+1507,Micrograph 1508, Not available, sample,1508
+1508,Micrograph 1509, SIS_XL.TIF, pearlite,1509
+1509,Micrograph 1510, AC1 970C 3H Q, network,1510
+1510,Micrograph 1511, SIS_XL.TIF, crack,1511
+1511,Micrograph 1512, Not available, None,1512
+1512,Micrograph 1513, Not available, pearlite+spheroidite,1513
+1513,Micrograph 1514, Not available, pearlite+spheroidite,1514
+1514,Micrograph 1515, AC1 800C 24H Q, spheroidite,1515
+1515,Micrograph 1516, AC1 970C 8H Q, spheroidite,1516
+1516,Micrograph 1517, AC1 970C 90M Q, spheroidite,1517
+1517,Micrograph 1518, AC1 970C 24H Q, spheroidite,1518
+1518,Micrograph 1519, SIS_XL.TIF, network,1519
+1519,Micrograph 1520, AC1 900C 24H Q, spheroidite,1520
+1520,Micrograph 1521, AC1 970C 24H Q, spheroidite,1521
+1521,Micrograph 1522, AC1 970 5M FC, spheroidite,1522
+1522,Micrograph 1523, IN1 Etched Sample, None,1523
+1523,Micrograph 1524, AC1 800C 3H Q, spheroidite,1524
+1524,Micrograph 1525, Not available, pearlite+spheroidite,1525
+1525,Micrograph 1526, Not available, pearlite+spheroidite,1526
+1526,Micrograph 1527, Not available, pearlite+spheroidite,1527
+1527,Micrograph 1528, SIS_XL.TIF, spheroidite+widmanstatten,1528
+1528,Micrograph 1529, Not available, None,1529
+1529,Micrograph 1530, Not available, None,1530
+1530,Micrograph 1531, AC1 IS1010H 35X etched, martensite,1531
+1531,Micrograph 1532, Not available, pearlite+spheroidite,1532
+1532,Micrograph 1533, AC1 970C 90M 65C 4H FC, sample,1533
+1533,Micrograph 1534, AC1 970C 90M Q, sample,1534
+1534,Micrograph 1535, Not available, None,1535
+1535,Micrograph 1536, AC 800C 8H Q, spheroidite,1536
+1536,Micrograph 1537, ET Gyro, quality,1537
+1537,Micrograph 1538, AC1 800C 85H Q, spheroidite,1538
+1538,Micrograph 1539, Not available, network,1539
+1539,Micrograph 1540, Not available, pearlite,1540
+1540,Micrograph 1541, SIS_XL.TIF, hole,1541
+1541,Micrograph 1542, Not available, pearlite,1542
+1542,Micrograph 1543, AC1 970 5M FC, spheroidite,1543
+1543,Micrograph 1544, Not available, pearlite,1544
+1544,Micrograph 1545, SIS_XL.TIF, quality,1545
+1545,Micrograph 1546, ET Gyro, quality,1546
+1546,Micrograph 1547, IN3 Unetched, quality,1547
+1547,Micrograph 1548, AC1 970C 90M FC, sample,1548
+1548,Micrograph 1549, AC1 970 5M FC, spheroidite+widmanstatten,1549
+1549,Micrograph 1550, Not available, quality,1550
+1550,Micrograph 1551, AC1 970C 5M Q, spheroidite+widmanstatten,1551
+1551,Micrograph 1552, AC1 IS1010H 35X etched, martensite,1552
+1552,Micrograph 1553, IN3 Unetched, crack,1553
+1553,Micrograph 1554, ET Gyro, pearlite,1554
+1554,Micrograph 1555, AC1 970C 3H Q, spheroidite,1555
+1555,Micrograph 1556, AC1 970C 90M Q, spheroidite,1556
+1556,Micrograph 1557, SIS_XL.TIF, None,1557
+1557,Micrograph 1558, AC1 970C 3H Q, network,1558
+1558,Micrograph 1559, ET Gyro, quality,1559
+1559,Micrograph 1560, AC1 970 5M FC, spheroidite+widmanstatten,1560
+1560,Micrograph 1561, AC1 970C 24H Q, network,1561
+1561,Micrograph 1562, AC1 970C 90M Q, spheroidite,1562
+1562,Micrograph 1563, AC1 970C 24H Q, None,1563
+1563,Micrograph 1564, SIS_XL.TIF, None,1564
+1564,Micrograph 1565, AC1 970C 90M AR, network,1565
+1565,Micrograph 1566, SIS_XL.TIF, indent,1566
+1566,Micrograph 1567, Not available, None,1567
+1567,Micrograph 1568, Not available, crack,1568
+1568,Micrograph 1569, AC1 970C 24H Q, spheroidite,1569
+1569,Micrograph 1570, Not available, pearlite+spheroidite,1570
+1570,Micrograph 1571, AC1 970C 24H Q, spheroidite,1571
+1571,Micrograph 1572, AC1 900C 3H Q, spheroidite,1572
+1572,Micrograph 1573, AC1 970 5M FC, spheroidite+widmanstatten,1573
+1573,Micrograph 1574, Not available, pearlite+spheroidite,1574
+1574,Micrograph 1575, Not available, network,1575
+1575,Micrograph 1576, SIS_XL.TIF, crack,1576
+1576,Micrograph 1577, SIS_XL.TIF, crack,1577
+1577,Micrograph 1578, Not available, None,1578
+1578,Micrograph 1579, AC1 900C 90M Q, spheroidite,1579
+1579,Micrograph 1580, AC1 800C 85H Q, spheroidite,1580
+1580,Micrograph 1581, AC1 970C 90M Q, spheroidite,1581
+1581,Micrograph 1582, Not available, pearlite+spheroidite,1582
+1582,Micrograph 1583, AC1 970C 90M 65C 4H FC, network,1583
+1583,Micrograph 1584, IN1 Etched Sample, network,1584
+1584,Micrograph 1585, SIS_XL.TIF, indent,1585
+1585,Micrograph 1586, AC1 970C 5M Q, spheroidite+widmanstatten,1586
+1586,Micrograph 1587, Not available, pearlite,1587
+1587,Micrograph 1588, ET Gyro, pearlite,1588
+1588,Micrograph 1589, SIS_XL.TIF, pearlite,1589
+1589,Micrograph 1590, Not available, None,1590
+1590,Micrograph 1591, AC1 970C 24H FC, sample,1591
+1591,Micrograph 1592, AC1 970C 90M 65C 4H FC, None,1592
+1592,Micrograph 1593, Not available, network,1593
+1593,Micrograph 1594, AC1 970C 90M Q, None,1594
+1594,Micrograph 1595, Not available, pearlite+spheroidite,1595
+1595,Micrograph 1596, IN1 Etched Sample, quality,1596
+1596,Micrograph 1597, ET Gyro, pearlite,1597
+1597,Micrograph 1598, AC1 970C 90M 65C 4H FC, None,1598
+1598,Micrograph 1599, SIS_XL.TIF, martensite,1599
+1599,Micrograph 1600, SIS_XL.TIF, None,1600
+1600,Micrograph 1601, AC1 970C 3H Q, spheroidite+widmanstatten,1601
+1601,Micrograph 1602, SIS_XL.TIF, crack,1602
+1602,Micrograph 1603, AC1 970C 3H Q, network,1603
+1603,Micrograph 1604, SIS_XL.TIF, indent,1604
+1604,Micrograph 1605, AC1 800C 5M Q, pearlite,1605
+1605,Micrograph 1606, AC1 970C 90M Q, sample,1606
+1606,Micrograph 1607, AC1 970C 90M AR, spheroidite,1607
+1607,Micrograph 1608, AC1 900C 24H Q, spheroidite,1608
+1608,Micrograph 1609, IN3 Unetched, crack,1609
+1609,Micrograph 1610, AC1 970C 3H Q, spheroidite+widmanstatten,1610
+1610,Micrograph 1611, AC1 970C 3H Q, spheroidite,1611
+1611,Micrograph 1612, Not available, crack,1612
+1612,Micrograph 1613, AC1 1000C 5M Q, spheroidite,1613
+1613,Micrograph 1614, Not available, None,1614
+1614,Micrograph 1615, Gaunt - Utah 1.5 yr explant M, network,1615
+1615,Micrograph 1616, SIS_XL.TIF, crack,1616
+1616,Micrograph 1617, Not available, None,1617
+1617,Micrograph 1618, Not available, None,1618
+1618,Micrograph 1619, SIS_XL.TIF, None,1619
+1619,Micrograph 1620, IN3 Unetched, hole,1620
+1620,Micrograph 1621, AC1 970C 24H FC, sample,1621
+1621,Micrograph 1622, Not available, quality,1622
+1622,Micrograph 1623, AC1 800C 3H Q, spheroidite,1623
+1623,Micrograph 1624, AC1 800C 3H Q, spheroidite,1624
+1624,Micrograph 1625, Gaunt - Utah 1.5 yr explant M, network,1625
+1625,Micrograph 1626, AC1 800C 85H Q, spheroidite,1626
+1626,Micrograph 1627, AC1 970C 90M 65C 4H FC, network,1627
+1627,Micrograph 1628, Not available, hole,1628
+1628,Micrograph 1629, SIS_XL.TIF, indent,1629
+1629,Micrograph 1630, AC1 970C 24H Q, None,1630
+1630,Micrograph 1631, SIS_XL.TIF, indent,1631
+1631,Micrograph 1632, IN3 Unetched, quality,1632
+1632,Micrograph 1633, AC1 970C 3H Q, spheroidite,1633
+1633,Micrograph 1634, AC1 800C 85H Q, spheroidite,1634
+1634,Micrograph 1635, Not available, pearlite+spheroidite,1635
+1635,Micrograph 1636, SIS_XL.TIF, indent,1636
+1636,Micrograph 1637, AC1 970C 24H Q, spheroidite,1637
+1637,Micrograph 1638, SIS_XL.TIF, pearlite,1638
+1638,Micrograph 1639, Not available, pearlite,1639
+1639,Micrograph 1640, AC1 970C 90M 65C 4H FC, spheroidite,1640
+1640,Micrograph 1641, SIS_XL.TIF, indent,1641
+1641,Micrograph 1642, Not available, pearlite,1642
+1642,Micrograph 1643, Not available, pearlite+spheroidite,1643
+1643,Micrograph 1644, AC1 970C 90M 65C 4H FC, pearlite+spheroidite,1644
+1644,Micrograph 1645, AC1 800C 24H Q, spheroidite,1645
+1645,Micrograph 1646, Not available, quality,1646
+1646,Micrograph 1647, SIS_XL.TIF, indent,1647
+1647,Micrograph 1648, AC1 800C 24H Q, spheroidite,1648
+1648,Micrograph 1649, AC1 970C 24H FC, sample,1649
+1649,Micrograph 1650, SIS_XL.TIF, crack,1650
+1650,Micrograph 1651, AC1 970C 3H Q, spheroidite,1651
+1651,Micrograph 1652, AC1 970C 24H FC, sample,1652
+1652,Micrograph 1653, Not available, None,1653
+1653,Micrograph 1654, IN1 Etched Sample, pearlite,1654
+1654,Micrograph 1655, ET Gyro, pearlite,1655
+1655,Micrograph 1656, Not available, pearlite+spheroidite,1656
+1656,Micrograph 1657, Not available, pearlite+spheroidite,1657
+1657,Micrograph 1658, Not available, None,1658
+1658,Micrograph 1659, AC1 IS1010H 35X etched, None,1659
+1659,Micrograph 1660, AC1 970C 5M Q, crack,1660
+1660,Micrograph 1661, Gaunt - Utah 1.5 yr explant M, network,1661
+1661,Micrograph 1662, AC1 970C 90M 65C 4H FC, pearlite+spheroidite,1662
+1662,Micrograph 1663, SIS_XL.TIF, indent,1663
+1663,Micrograph 1664, AC1 970 5M FC, None,1664
+1664,Micrograph 1665, SIS_XL.TIF, None,1665
+1665,Micrograph 1666, SIS_XL.TIF, network,1666
+1666,Micrograph 1667, AC1 970C 90M Q, spheroidite,1667
+1667,Micrograph 1668, Not available, pearlite+spheroidite,1668
+1668,Micrograph 1669, Not available, hole,1669
+1669,Micrograph 1670, Not available, quality,1670
+1670,Micrograph 1671, ET Gyro, pearlite,1671
+1671,Micrograph 1672, AC1 800C 900C 970C 90M Q, spheroidite,1672
+1672,Micrograph 1673, AC1 970C 24H FC, sample,1673
+1673,Micrograph 1674, Not available, None,1674
+1674,Micrograph 1675, AC1 970 5M FC, spheroidite+widmanstatten,1675
+1675,Micrograph 1676, AC1 970C 3H Q, spheroidite,1676
+1676,Micrograph 1677, AC1 970C 3H Q, spheroidite,1677
+1677,Micrograph 1678, Not available, crack,1678
+1678,Micrograph 1679, IN3 Unetched, quality,1679
+1679,Micrograph 1680, Not available, crack,1680
+1680,Micrograph 1681, Not available, hole,1681
+1681,Micrograph 1682, AC1 970C 8H Q, spheroidite,1682
+1682,Micrograph 1683, Not available, network,1683
+1683,Micrograph 1684, Not available, pearlite+widmanstatten,1684
+1684,Micrograph 1685, IN3 Unetched, quality,1685
+1685,Micrograph 1686, AC1 970 5M FC, spheroidite,1686
+1686,Micrograph 1687, Not available, hole,1687
+1687,Micrograph 1688, SIS_XL.TIF, indent,1688
+1688,Micrograph 1689, AC1 800C 85H Q, spheroidite,1689
+1689,Micrograph 1690, IN3 Unetched, quality,1690
+1690,Micrograph 1691, IN1 Etched Sample, None,1691
+1691,Micrograph 1692, IN3 Unetched, quality,1692
+1692,Micrograph 1693, AC1 970C 24H Q, spheroidite,1693
+1693,Micrograph 1694, AC1 970C 5M Q, spheroidite,1694
+1694,Micrograph 1695, ET Gyro, quality,1695
+1695,Micrograph 1696, SIS_XL.TIF, pearlite,1696
+1696,Micrograph 1697, SIS_XL.TIF, martensite,1697
+1697,Micrograph 1698, ET Gyro, pearlite,1698
+1698,Micrograph 1699, Not available, hole,1699
+1699,Micrograph 1700, SIS_XL.TIF, martensite,1700
+1700,Micrograph 1701, SIS_XL.TIF, quality,1701
+1701,Micrograph 1702, SIS_XL.TIF, network,1702
+1702,Micrograph 1703, AC1 900C 90M Q, spheroidite,1703
+1703,Micrograph 1704, Not available, hole,1704
+1704,Micrograph 1705, SIS_XL.TIF, quality,1705
+1705,Micrograph 1706, Not available, crack,1706
+1706,Micrograph 1707, AC 800C 8H Q, spheroidite,1707
+1707,Micrograph 1708, Not available, quality,1708
+1708,Micrograph 1709, SIS_XL.TIF, quality,1709
+1709,Micrograph 1710, AC1 970C 90M FC, network,1710
+1710,Micrograph 1711, Not available, None,1711
+1711,Micrograph 1712, AC1 970C 24H Q, spheroidite,1712
+1712,Micrograph 1713, IN3 Unetched, hole,1713
+1713,Micrograph 1714, Not available, crack,1714
+1714,Micrograph 1715, Not available, None,1715
+1715,Micrograph 1716, AC1 800C 85H Q, spheroidite,1716
+1716,Micrograph 1717, IN3 Unetched, hole,1717
+1717,Micrograph 1718, SIS_XL.TIF, network,1718
+1718,Micrograph 1719, AC1 IS1010H 35X etched, network,1719
+1719,Micrograph 1720, AC1 800C 24H Q, spheroidite,1720
+1720,Micrograph 1721, IN1 Etched Sample, pearlite,1721
+1721,Micrograph 1722, AC1 970C 24H Q, spheroidite,1722
+1722,Micrograph 1723, AC1 IS1010H 35X etched, martensite,1723
+1723,Micrograph 1724, SIS_XL.TIF, indent,1724
+1724,Micrograph 1725, Not available, None,1725
+1725,Micrograph 1726, AC1 970 5M FC, spheroidite+widmanstatten,1726
+1726,Micrograph 1727, SIS_XL.TIF, crack,1727
+1727,Micrograph 1728, Not available, None,1728
+1728,Micrograph 1729, SIS_XL.TIF, indent,1729
+1729,Micrograph 1730, AC1 970C 90M Q, spheroidite,1730
+1730,Micrograph 1731, SIS_XL.TIF, pearlite,1731
